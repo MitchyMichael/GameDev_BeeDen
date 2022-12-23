@@ -1,0 +1,2851 @@
+fileFormatVersion: 2
+guid: 4df2a1a794a2f0847a480ab4fe2f9a3a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ursaring_sprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40a1050e6c97144d865810cf729b99a
+      internalID: 1440552270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 960
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25aecd9498ac4b5468b11ad582dc3e40
+      internalID: -1600579099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_2
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 960
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001d831e51951684d826bfadc1a9f3dc
+      internalID: -799198352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_3
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 960
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac75aef0aab62e740b6d185b2718ebb4
+      internalID: -1670822038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_4
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 960
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9224bbb4434fd8d428c8447c53d7a4d1
+      internalID: -154139690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_5
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 960
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028fd9e225efc6c48b767ecb3983d4ce
+      internalID: -791912231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_6
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 960
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2249a3747b02dc4b93f304e9d6df7c3
+      internalID: -432486056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_7
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 960
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e7e8d4237bf97489cd6512e47f706f
+      internalID: 1835553791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_8
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 960
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1366fde513316ea41a64ba80333786c8
+      internalID: -1201147030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_9
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 960
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f3e42f77461aa4f94420100bff9d76
+      internalID: 1492296731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 880
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ee11bd141f2e942b0b600892cca8c9
+      internalID: 1876012428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_11
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 880
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ac3c3fd99c81a4d9c22a8310998a06
+      internalID: -566453786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_12
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 880
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f579510a1899d8a4b888d4dab832f2e7
+      internalID: -725419866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_13
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 880
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da54754539994bd428856e4630af2ae4
+      internalID: -1655771309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_14
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 880
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 476ffa654c0e8d34e9bae94e132eec54
+      internalID: 559964951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_15
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 880
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8931fcd36dab6545b4b6bdcab89b602
+      internalID: -1164946773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_16
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 880
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf7c571138f4a5459b1a514b215f041
+      internalID: 59234433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_17
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 880
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90262e17f709e14899137695064ef6f
+      internalID: 1216017619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_18
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 880
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60beeef1c8e1b014692ecd3e18341bae
+      internalID: -1275818403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_19
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 880
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1494edd444a14469daefe76b282b95
+      internalID: 1703877144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3c3d80ed1250f43bee67b97763277d
+      internalID: 2022438577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_21
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 800
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43167175717d0ba4ca31501121f77eaa
+      internalID: 1689325677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_22
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 800
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6bd1053d10b6974fa09faa5017faf93
+      internalID: -809429046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_23
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 800
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c7d9583dff1fb345bdff504a705be80
+      internalID: -565537780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_24
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 800
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc57c1aae57bcf4bb58c2f9f5cc7bcd
+      internalID: 1962937656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_25
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 800
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836a53beb9c94d44eafd035c5f6350a0
+      internalID: -1924446272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_26
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 800
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed7e10e7cd6983438d0d76253af7daa
+      internalID: 978084922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_27
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 800
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257c36850a24c524991500b89b6b0b9e
+      internalID: 540456422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_28
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 800
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0dfad095c5efc41ab17841e7d2e9f1
+      internalID: 902502207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_29
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 800
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca89d3d901d0ab41a861f8b370171f3
+      internalID: -631096201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c322a1843bc1c40bbf992728cbf142
+      internalID: 801165177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_31
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 720
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8bf0a2b493dd7c43aba430f2799e16d
+      internalID: 976973629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_32
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 720
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b248ced5ce0b46746bb4ce9bf389be38
+      internalID: 1492171682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_33
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 720
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c29710fa9b9764aa63863f58d1fe70
+      internalID: -95845163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_34
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 720
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a694123728e74b4c82548baa08a127d
+      internalID: 584684348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_35
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 720
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8570a3b1cea7b344d9d5bb168f91c397
+      internalID: 445196349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_36
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 720
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e3e7e681f141245aa3d5ae3678faea
+      internalID: -1130403324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_37
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 720
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1937cae850bd2774193fa54f8bc71bca
+      internalID: -1709638803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_38
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 720
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e741ba9462c3cf4fb1d579c874b7958
+      internalID: -639720713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_39
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 720
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66282b06177cae4897ffb1d7066067e
+      internalID: -1880899915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d070da4fc7e52904f863f6cf79892ec7
+      internalID: -1955211439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_41
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 640
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1f2745a96df444688b7da3311741b4
+      internalID: -960967584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_42
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 640
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657684f5ea1614f49b34c8ec0f0cf7a5
+      internalID: -817918331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_43
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 640
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a0f288763097fa42974509f22b8f748
+      internalID: -1338967746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_44
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 640
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2685f383d6437ad4092cb28b723fd9a6
+      internalID: 768058328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_45
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 640
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805fb2a526f705b44b2763a458d437cb
+      internalID: 927973179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_46
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 640
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c904a871e1e574fafb566d5b9b492e
+      internalID: 38538658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_47
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 640
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5965bb7899250a4cb780dbf11295be3
+      internalID: -289319625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_48
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 640
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f363253291ccbd44e863e675297dd771
+      internalID: -581272658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_49
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 640
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6322c0b712a9d33488bb2f6bc9248dd2
+      internalID: -1700284093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 560
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e886eb03a33b7e645b3830951cc7beb3
+      internalID: 1710725460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_51
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 560
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31bfa2014a8ab54aa4461c549b382e9
+      internalID: 1426303945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_52
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 560
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e9d84678d96b8a42b4cac8ac901ee0e
+      internalID: -1443889050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_53
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 560
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228ca5c258647f543b30842e6dc59cfa
+      internalID: 47099094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_54
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 560
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b9db111a506dc41b3aadc5f0c0801a
+      internalID: -613196670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_55
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 560
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a3610d89f458f498249580969bc279
+      internalID: -384658574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_56
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 560
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b44479aefde936b4f88fc276aae5681c
+      internalID: 1272374393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_57
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 560
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85978deac9d941d419438f5897a4f680
+      internalID: 632414904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_58
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 560
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77961ab8338fdc4594c79197a0d4704
+      internalID: 1729201461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_59
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 560
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38e51d9b1064de478fafbc6b1be238e
+      internalID: 330194520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad776338622456c44ae3514ba155748d
+      internalID: 1811999770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_61
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 480
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1defe810a1692d34db4f0292845158a6
+      internalID: -1718645402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_62
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 480
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0327b84059845ed4aa0802950da350ce
+      internalID: -293691297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_63
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 480
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55843ae91e73704b877f0d094d776f9
+      internalID: -878268741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_64
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 480
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50339f403d52bb74d878c0180bbd71f3
+      internalID: 1296057099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_65
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 480
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6166902f3eb5523429e58e412d1605ec
+      internalID: 1774226973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_66
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 480
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b263e685bc37c404b9489917a9762080
+      internalID: -1063338919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_67
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 480
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910dfaadbc138394d9855cd7fec3f362
+      internalID: -1036093888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_68
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 480
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: befc56305ceda214993ac867aed07ee2
+      internalID: 39312277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_69
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 480
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03855671de5ba77448ab0d9433b24898
+      internalID: 735401834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddea1a33dfc46ab46b76673aee9aa161
+      internalID: -1338037452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_71
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 400
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1898d435176ba1d448c8f019c6c14c99
+      internalID: 1563590980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_72
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 400
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3189b38f31c9d2499aa6baf2814fa08
+      internalID: -183618167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_73
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 400
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7954fc5aa476e4288f4b991ffab4ad
+      internalID: 1116408838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_74
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 400
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1868e6f88fe48594b9a19ffb5012f285
+      internalID: 1028216935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_75
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 400
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5634c3239dfc9104983540f008da26da
+      internalID: 1133759581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_76
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 400
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4bdbe1f0580e6841b56d14206e88e91
+      internalID: 1866044078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_77
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 400
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c17519e11fa353408dfa3c7c868d557
+      internalID: 1001213819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_78
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 400
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdff72e7684c75f4cbaf66d3799b1f73
+      internalID: -1396916322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_79
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 400
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3882fc3b22498a443a746533d72df91c
+      internalID: -734926201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db1aaa175fb8914c84cdeb911de45d2
+      internalID: 688716689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_81
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 320
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2862babef5094b3499e1026da9a11f31
+      internalID: -1725287006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_82
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 320
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c42953060ba01c4ca486cb873b137e5
+      internalID: -687772826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_83
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 320
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab3dc4731beeeb469a97b1429b3bff4
+      internalID: 486327676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_84
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 320
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94a1d15ebef0a446bec0e53176e8e7e
+      internalID: -1829828707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_85
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 320
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8354dc9951d224eba10ec26aa1c405
+      internalID: -1871097916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_86
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 320
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0f5b6c540dabb4db8cf71a0c5c0075
+      internalID: 1429102828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_87
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 320
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018379d1b5b21e343807295dc988615e
+      internalID: 1835132928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_88
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 320
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b84a2b097c3e7d4186875429ecff2f9
+      internalID: 1438940866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_89
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 320
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71aa6e99294ae3148b659d2b59b4f362
+      internalID: 1586365996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa84f9c70a6f9dc4394f6848f01b8618
+      internalID: 1404898411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_91
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 240
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389216c953b1b1b449906a0f472dcbb8
+      internalID: -1268439022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_92
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 240
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1578a0e0e2facc4e977886c2d651257
+      internalID: 2104423970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_93
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 240
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f7e90147bf83d43a5476b928ac20c4
+      internalID: 1946726760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_94
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 240
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c5b89ee5ec75b42891927b962bb9cb
+      internalID: -1901839538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_95
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 240
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd5b3fb84e9f6e44972f9cdfb356301
+      internalID: -2046090209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_96
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 240
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678dc2fc684d38e469b0ccde32383da0
+      internalID: -1569745899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_97
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 240
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61c43d091f24984288f7df0f46dc264
+      internalID: -498324861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_98
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 240
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949c38699460f9449ac52e41b1cc8104
+      internalID: 1211540282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_99
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 240
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a59dc64e29e8874f83b7960c62418ab
+      internalID: 1499476964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3b3af39fb4c9f418253c01587bd6c3
+      internalID: 390933983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_101
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 160
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31344f7a834546945843071d803005d8
+      internalID: -128275386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_102
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 160
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab3d1f53fe526c41bb6c7fefb4786f1
+      internalID: -1770520518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_103
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 160
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc5a1df30ca57aa449e8d3fe2f64e981
+      internalID: 439281189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_104
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 160
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223753a52fe51f44da44e1542f62d830
+      internalID: 1516477747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_105
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 160
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7baea637c900b2149af81e5c5c63c629
+      internalID: 764100767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_106
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 160
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6d8bf9ac0742e48ba4849ac631dedc
+      internalID: -229871720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_107
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 160
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8f2589206f3094dad2ff7c16fdd4c9
+      internalID: -925611924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_108
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 160
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132b30c6eee4bd3478d5287e698e6f81
+      internalID: -662910554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_109
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 160
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea66399100b7da4c9529e04f3e5085a
+      internalID: 1827748704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb8508d606b528499984d889f0a0122
+      internalID: -1548577793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_111
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 80
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c534f880ff91446a0959e3285eec19
+      internalID: 1781863915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_112
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 80
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc1b1ccebb285e46b318b1f75751dd9
+      internalID: -649652406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_113
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 80
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ea4af8b0af730488bdfd1e3d7c857b
+      internalID: -1054922972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_114
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 80
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b358abd33b3624bb3a8250466a6af3
+      internalID: 1482305251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_115
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 80
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ee2af31a654b84fbd34379b1c998a3
+      internalID: 1676371427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_116
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 80
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c5ab89446a82549b059e0252a052d6
+      internalID: -2133175210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_117
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 80
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed486c97942d3c41b300603cb858ef3
+      internalID: -210777988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_118
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 80
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8964ba00a1b404386b877ab4a0bed9
+      internalID: 2470362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_119
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 80
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db905e074d2117d44a1a161b7160ecb5
+      internalID: -624185986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a94c01baec06be8468c484f9c7ce52b9
+      internalID: -727698530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_121
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 0
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b344b384953dd424e8e8e9505077e54a
+      internalID: -1359549467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_122
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 0
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8b8b5c2b7d7874bbcf801c267653e5
+      internalID: 1415683081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ursaring_sprite_123
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 0
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f704a0f51f9088c4dad75ad0987db84d
+      internalID: -1807061182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ursaring_sprite_87: 1835132928
+      ursaring_sprite_26: 978084922
+      ursaring_sprite_30: 801165177
+      ursaring_sprite_31: 976973629
+      ursaring_sprite_116: -2133175210
+      ursaring_sprite_66: -1063338919
+      ursaring_sprite_102: -1770520518
+      ursaring_sprite_62: -293691297
+      ursaring_sprite_48: -581272658
+      ursaring_sprite_40: -1955211439
+      ursaring_sprite_0: 1440552270
+      ursaring_sprite_29: -631096201
+      ursaring_sprite_98: 1211540282
+      ursaring_sprite_15: -1164946773
+      ursaring_sprite_97: -498324861
+      ursaring_sprite_13: -1655771309
+      ursaring_sprite_34: 584684348
+      ursaring_sprite_64: 1296057099
+      ursaring_sprite_37: -1709638803
+      ursaring_sprite_41: -960967584
+      ursaring_sprite_101: -128275386
+      ursaring_sprite_25: -1924446272
+      ursaring_sprite_123: -1807061182
+      ursaring_sprite_85: -1871097916
+      ursaring_sprite_118: 2470362
+      ursaring_sprite_1: -1600579099
+      ursaring_sprite_12: -725419866
+      ursaring_sprite_3: -1670822038
+      ursaring_sprite_21: 1689325677
+      ursaring_sprite_19: 1703877144
+      ursaring_sprite_16: 59234433
+      ursaring_sprite_61: -1718645402
+      ursaring_sprite_77: 1001213819
+      ursaring_sprite_10: 1876012428
+      ursaring_sprite_96: -1569745899
+      ursaring_sprite_67: -1036093888
+      ursaring_sprite_73: 1116408838
+      ursaring_sprite_52: -1443889050
+      ursaring_sprite_33: -95845163
+      ursaring_sprite_22: -809429046
+      ursaring_sprite_82: -687772826
+      ursaring_sprite_4: -154139690
+      ursaring_sprite_92: 2104423970
+      ursaring_sprite_104: 1516477747
+      ursaring_sprite_115: 1676371427
+      ursaring_sprite_106: -229871720
+      ursaring_sprite_55: -384658574
+      ursaring_sprite_18: -1275818403
+      ursaring_sprite_5: -791912231
+      ursaring_sprite_80: 688716689
+      ursaring_sprite_53: 47099094
+      ursaring_sprite_17: 1216017619
+      ursaring_sprite_57: 632414904
+      ursaring_sprite_28: 902502207
+      ursaring_sprite_78: -1396916322
+      ursaring_sprite_94: -1901839538
+      ursaring_sprite_108: -662910554
+      ursaring_sprite_120: -727698530
+      ursaring_sprite_20: 2022438577
+      ursaring_sprite_14: 559964951
+      ursaring_sprite_54: -613196670
+      ursaring_sprite_8: -1201147030
+      ursaring_sprite_44: 768058328
+      ursaring_sprite_6: -432486056
+      ursaring_sprite_122: 1415683081
+      ursaring_sprite_68: 39312277
+      ursaring_sprite_75: 1133759581
+      ursaring_sprite_103: 439281189
+      ursaring_sprite_2: -799198352
+      ursaring_sprite_69: 735401834
+      ursaring_sprite_111: 1781863915
+      ursaring_sprite_32: 1492171682
+      ursaring_sprite_60: 1811999770
+      ursaring_sprite_86: 1429102828
+      ursaring_sprite_74: 1028216935
+      ursaring_sprite_84: -1829828707
+      ursaring_sprite_42: -817918331
+      ursaring_sprite_56: 1272374393
+      ursaring_sprite_47: -289319625
+      ursaring_sprite_81: -1725287006
+      ursaring_sprite_35: 445196349
+      ursaring_sprite_24: 1962937656
+      ursaring_sprite_45: 927973179
+      ursaring_sprite_71: 1563590980
+      ursaring_sprite_11: -566453786
+      ursaring_sprite_93: 1946726760
+      ursaring_sprite_39: -1880899915
+      ursaring_sprite_58: 1729201461
+      ursaring_sprite_46: 38538658
+      ursaring_sprite_43: -1338967746
+      ursaring_sprite_50: 1710725460
+      ursaring_sprite_51: 1426303945
+      ursaring_sprite_72: -183618167
+      ursaring_sprite_76: 1866044078
+      ursaring_sprite_107: -925611924
+      ursaring_sprite_110: -1548577793
+      ursaring_sprite_49: -1700284093
+      ursaring_sprite_117: -210777988
+      ursaring_sprite_112: -649652406
+      ursaring_sprite_83: 486327676
+      ursaring_sprite_59: 330194520
+      ursaring_sprite_114: 1482305251
+      ursaring_sprite_23: -565537780
+      ursaring_sprite_7: 1835553791
+      ursaring_sprite_38: -639720713
+      ursaring_sprite_88: 1438940866
+      ursaring_sprite_9: 1492296731
+      ursaring_sprite_65: 1774226973
+      ursaring_sprite_90: 1404898411
+      ursaring_sprite_89: 1586365996
+      ursaring_sprite_27: 540456422
+      ursaring_sprite_119: -624185986
+      ursaring_sprite_105: 764100767
+      ursaring_sprite_91: -1268439022
+      ursaring_sprite_79: -734926201
+      ursaring_sprite_63: -878268741
+      ursaring_sprite_95: -2046090209
+      ursaring_sprite_70: -1338037452
+      ursaring_sprite_109: 1827748704
+      ursaring_sprite_99: 1499476964
+      ursaring_sprite_100: 390933983
+      ursaring_sprite_113: -1054922972
+      ursaring_sprite_121: -1359549467
+      ursaring_sprite_36: -1130403324
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

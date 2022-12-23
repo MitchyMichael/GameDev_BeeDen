@@ -1,0 +1,1861 @@
+fileFormatVersion: 2
+guid: 7049d58a17be3c64d90c886d24f3e352
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: terdiursa_sprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 324
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520910e22d400274b852fe9b9fe52f08
+      internalID: 2040190101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terdiursa_sprite_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 324
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893bb82eff1a4184d9d6c1ca188d69ef
+      internalID: -970711217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terdiursa_sprite_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 324
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ca4feff683c054280cfbe8ef1e14e2
+      internalID: 2122396310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terdiursa_sprite_3
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 324
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92b62b3ba2ccce48a40bf0ad13fb70b
+      internalID: -2107923795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terdiursa_sprite_4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 324
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a235021a7cd714f8129cfb02937972
+      internalID: 1972119268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terdiursa_sprite_5
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 324
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4847b22c93ad76147b2ddf51cf7af5e8
+      internalID: -1172642950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terdiursa_sprite_6
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 324
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db69ea2c97b13fa4897329ade930094f
+      internalID: -73942394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terdiursa_sprite_7
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 324
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7131b4b51681ba44bb43932c8677bb77
+      internalID: -39269811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terdiursa_sprite_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b16b982da847e249bbad93de6848761
+      internalID: -972081857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terdiursa_sprite_9
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 288
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c37a8423a89052e4a9738f75a5541230
+      internalID: 1648944158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terdiursa_sprite_10
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 288
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09bbdc2c99cfc7c42a502bfa208f0b94
+      internalID: -369852503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terdiursa_sprite_11
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 288
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f649d7ddb56754e9c19812f62c012a
+      internalID: 1292325224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terdiursa_sprite_12
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 288
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e144f641dbdbe439ed20a01b958aa8
+      internalID: -470021904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terdiursa_sprite_13
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 288
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51588aeb51252ec45a60747d7d1aaed8
+      internalID: 518888074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terdiursa_sprite_14
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 288
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7dceef1fa94ae4ebe24dffcc9d1ddb
+      internalID: 1374417734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terdiursa_sprite_15
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 288
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288c0c73f10cde442b9e20e10f933dd6
+      internalID: -921171161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terdiursa_sprite_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 252
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73fff470cabf316448fd0c03fb70eeb1
+      internalID: 1553950092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terdiursa_sprite_17
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 252
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ddd0c780a8939246a0c9239eae125b6
+      internalID: -1181693433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terdiursa_sprite_18
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 252
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e6828eb85845b0478c75d7fa9f2d231
+      internalID: 1622904608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terdiursa_sprite_19
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 252
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c085979803d954396e90ca925fa92e
+      internalID: 521613879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terdiursa_sprite_20
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 252
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7026ccb8c62014b8df91069b5e8c5e
+      internalID: 666838324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terdiursa_sprite_21
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 252
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f2e35c289148dd48baebeb1d5aec597
+      internalID: 1337722039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terdiursa_sprite_22
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 252
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec7602b8b3e6a44bb9ad390c7d060cd
+      internalID: -717304084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terdiursa_sprite_23
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 252
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd10df29a1859cf46966e28bb308b02d
+      internalID: -1574537562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terdiursa_sprite_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 216
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 041ca55b87bd70f40b37bb4d29f8921e
+      internalID: 1362284762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terdiursa_sprite_25
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 216
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e59bb8d88604e44b9f49c32452baeb5
+      internalID: -837877850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terdiursa_sprite_26
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 216
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d2a505f25956344a4b8489653fbe2c
+      internalID: -662341347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terdiursa_sprite_27
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 216
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56ce400d15befc4894d94c3057f52f1
+      internalID: -834697782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terdiursa_sprite_28
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 216
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a9f308791c5b34aa8793a9aeac551c
+      internalID: -1460677272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terdiursa_sprite_29
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 216
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab2aeb1ae7e9f7498b193f45103c6e3
+      internalID: -103006237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terdiursa_sprite_30
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 216
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22234566268c1ce41aeaf11f5b00e384
+      internalID: 234095792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terdiursa_sprite_31
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 216
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f976c66808c8a274086f0c77006da53a
+      internalID: -523605749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terdiursa_sprite_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e401989a7e75ce448a0e52be864d025e
+      internalID: 2141368473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terdiursa_sprite_33
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 180
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc2722ea2edbdf943ad2c3d43281c5db
+      internalID: 658798562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terdiursa_sprite_34
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 180
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739e605f29b402e4a894b10d15132bd5
+      internalID: -491795950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terdiursa_sprite_35
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 180
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f765dbd703b5bfa4f9bf3eb519ded1b0
+      internalID: -397712119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terdiursa_sprite_36
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 180
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c74a520405f48948a771cdc4ec77622
+      internalID: 1040489117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terdiursa_sprite_37
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 180
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10940ddc463fb1429dc92f3df684c2b
+      internalID: 287161975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terdiursa_sprite_38
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 180
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ffb6b68039ab84438c4e3b16829bf7f
+      internalID: 369825354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terdiursa_sprite_39
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 180
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a635d077d196864fb3cb9ce9d24f2cc
+      internalID: 1245921021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terdiursa_sprite_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f2c945c8ddb02a41a652e6bcd3c2d3e
+      internalID: 2027947076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terdiursa_sprite_41
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 144
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432a3c51edfc714418864b800a076d60
+      internalID: 155353911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terdiursa_sprite_42
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 144
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd017661f8692a343a417164d8323134
+      internalID: -484649575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terdiursa_sprite_43
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 144
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60172aeb2142dd4c8b610957575102f
+      internalID: 1646560434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terdiursa_sprite_44
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 144
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015a4dac5937ce04a9f71e3430871ca4
+      internalID: -313154980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terdiursa_sprite_45
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 144
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c531c2437a6ea2d4c97dbca724d81d95
+      internalID: 1865509813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terdiursa_sprite_46
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 144
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae1869ffaaf02245adc79af786631af
+      internalID: 1630287118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terdiursa_sprite_47
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 144
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d7b61bc038cd048869259a477967d4
+      internalID: 1843319595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terdiursa_sprite_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 108
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7928661a611ff5c4ab3e719c570c0e89
+      internalID: 920629810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terdiursa_sprite_49
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 108
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1871a6129c6175440a8a5a1e8a553ce3
+      internalID: 1779355628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terdiursa_sprite_50
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 108
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06cd43423f8235488d744a09d2ed92e
+      internalID: 150566849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terdiursa_sprite_51
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 108
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277dbf2cd9089bf4aa0016e613f32409
+      internalID: -1625900292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terdiursa_sprite_52
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 108
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c3fb838bef38243b10af3b8352b80b
+      internalID: -305225011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terdiursa_sprite_53
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 108
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd0a2a7ba9903f48a0f8889b7ebb4b8
+      internalID: 941626163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terdiursa_sprite_54
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 108
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1475a425b771994d9b3b76ebf18dc8f
+      internalID: -457271928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terdiursa_sprite_55
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 108
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99daad39572ec2499b1fb781731f747
+      internalID: -1648873105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terdiursa_sprite_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb22400689e25cb4d95a0bf6b38e8e89
+      internalID: 1773616177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terdiursa_sprite_57
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 72
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ec79b1ed850034db7b1e440c9bea37
+      internalID: -1342853431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terdiursa_sprite_58
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 72
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c0beb3876ca814fa42403beae689e2
+      internalID: 1773479768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terdiursa_sprite_59
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 72
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c645aa3a6bd2006438eab7c5987177ae
+      internalID: 397842372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terdiursa_sprite_60
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 72
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99c7fc40c5e4ee40b0ed8875ee72453
+      internalID: -1588603330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terdiursa_sprite_61
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 72
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea16f2d8b8016a14db29842a95e696da
+      internalID: 1327809261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terdiursa_sprite_62
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 72
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7df7c0eeb53e74e9441126cfd6eb73
+      internalID: -32869702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terdiursa_sprite_63
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 72
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e8ebff25e0699458a984fbf236b01f
+      internalID: -549644545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terdiursa_sprite_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 36
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab917bec2221e5a4d82c7d5add24f740
+      internalID: 538490532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terdiursa_sprite_65
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 36
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e76dcd8df7acf4db50fdf6d02c9ded
+      internalID: 697775787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terdiursa_sprite_66
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 36
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c04a456c15c2c43a45ad0b8e1dd894
+      internalID: 290406463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terdiursa_sprite_67
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 36
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8699d524abf5cd6498d874c58f423282
+      internalID: -311070817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terdiursa_sprite_68
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 36
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ae313604a85d54d9eb64eb1f818ca2
+      internalID: 1380562210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terdiursa_sprite_69
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 36
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620fdc69e5a4c3949b0fc157107b5aa8
+      internalID: 1680803380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terdiursa_sprite_70
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 36
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 112ef0fa3a3ea4a4b832fab34a83a1eb
+      internalID: -751186771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terdiursa_sprite_71
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 36
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b08ff4a29b687541b9d0c7432661131
+      internalID: 1667463113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terdiursa_sprite_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af32f864a1c728843aba6a3f87e608cb
+      internalID: 435878359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terdiursa_sprite_73
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 0
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8baaea519cb1ff84a866a1f80a074cd3
+      internalID: 435798091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terdiursa_sprite_74
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e73f18da75d4274ca8c3469abedf3fb
+      internalID: 619840212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terdiursa_sprite_75
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3167f19feed4049a92fa47ba15ea78
+      internalID: 633184572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terdiursa_sprite_76
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd76e83e84316a449bf473f74daea43
+      internalID: -1552960368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terdiursa_sprite_77
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f257986d73ff347a451e5fc08201b4
+      internalID: 889186929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terdiursa_sprite_78
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dbdb483c91e62f4eb467fa1bc068ed6
+      internalID: 605347423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      terdiursa_sprite_1: -970711217
+      terdiursa_sprite_11: 1292325224
+      terdiursa_sprite_12: -470021904
+      terdiursa_sprite_65: 697775787
+      terdiursa_sprite_20: 666838324
+      terdiursa_sprite_0: 2040190101
+      terdiursa_sprite_5: -1172642950
+      terdiursa_sprite_14: 1374417734
+      terdiursa_sprite_76: -1552960368
+      terdiursa_sprite_77: 889186929
+      terdiursa_sprite_22: -717304084
+      terdiursa_sprite_45: 1865509813
+      terdiursa_sprite_25: -837877850
+      terdiursa_sprite_40: 2027947076
+      terdiursa_sprite_75: 633184572
+      terdiursa_sprite_43: 1646560434
+      terdiursa_sprite_16: 1553950092
+      terdiursa_sprite_46: 1630287118
+      terdiursa_sprite_37: 287161975
+      terdiursa_sprite_19: 521613879
+      terdiursa_sprite_53: 941626163
+      terdiursa_sprite_9: 1648944158
+      terdiursa_sprite_21: 1337722039
+      terdiursa_sprite_39: 1245921021
+      terdiursa_sprite_23: -1574537562
+      terdiursa_sprite_26: -662341347
+      terdiursa_sprite_58: 1773479768
+      terdiursa_sprite_57: -1342853431
+      terdiursa_sprite_47: 1843319595
+      terdiursa_sprite_8: -972081857
+      terdiursa_sprite_10: -369852503
+      terdiursa_sprite_33: 658798562
+      terdiursa_sprite_73: 435798091
+      terdiursa_sprite_7: -39269811
+      terdiursa_sprite_15: -921171161
+      terdiursa_sprite_41: 155353911
+      terdiursa_sprite_36: 1040489117
+      terdiursa_sprite_66: 290406463
+      terdiursa_sprite_64: 538490532
+      terdiursa_sprite_18: 1622904608
+      terdiursa_sprite_30: 234095792
+      terdiursa_sprite_50: 150566849
+      terdiursa_sprite_34: -491795950
+      terdiursa_sprite_62: -32869702
+      terdiursa_sprite_56: 1773616177
+      terdiursa_sprite_48: 920629810
+      terdiursa_sprite_28: -1460677272
+      terdiursa_sprite_17: -1181693433
+      terdiursa_sprite_72: 435878359
+      terdiursa_sprite_32: 2141368473
+      terdiursa_sprite_70: -751186771
+      terdiursa_sprite_78: 605347423
+      terdiursa_sprite_61: 1327809261
+      terdiursa_sprite_3: -2107923795
+      terdiursa_sprite_49: 1779355628
+      terdiursa_sprite_59: 397842372
+      terdiursa_sprite_51: -1625900292
+      terdiursa_sprite_69: 1680803380
+      terdiursa_sprite_55: -1648873105
+      terdiursa_sprite_54: -457271928
+      terdiursa_sprite_2: 2122396310
+      terdiursa_sprite_4: 1972119268
+      terdiursa_sprite_42: -484649575
+      terdiursa_sprite_52: -305225011
+      terdiursa_sprite_63: -549644545
+      terdiursa_sprite_13: 518888074
+      terdiursa_sprite_31: -523605749
+      terdiursa_sprite_67: -311070817
+      terdiursa_sprite_68: 1380562210
+      terdiursa_sprite_6: -73942394
+      terdiursa_sprite_35: -397712119
+      terdiursa_sprite_44: -313154980
+      terdiursa_sprite_71: 1667463113
+      terdiursa_sprite_29: -103006237
+      terdiursa_sprite_74: 619840212
+      terdiursa_sprite_24: 1362284762
+      terdiursa_sprite_38: 369825354
+      terdiursa_sprite_60: -1588603330
+      terdiursa_sprite_27: -834697782
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
