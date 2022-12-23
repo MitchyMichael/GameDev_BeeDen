@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 0a548f83d08c5db4c804f6f12359ec4e
+guid: 148a1f239593e794b842858f8792468e
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -105,13 +105,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: beedrill_sprite_high resolution_0
+      name: beedrill_attack_set_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 345
-        width: 74
-        height: 69
+        x: 7
+        y: 1334
+        width: 33
+        height: 11
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -119,20 +119,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 52de70d87c34d5343af71b5e268f19a6
-      internalID: 664830603
+      spriteID: b19099a2eb564d645a700478e9e35b4e
+      internalID: -391684426
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: beedrill_sprite_high resolution_1
+      name: beedrill_attack_set_1
       rect:
         serializedVersion: 2
-        x: 74
-        y: 345
-        width: 74
-        height: 69
+        x: 8
+        y: 1300
+        width: 28
+        height: 19
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -140,20 +140,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 52ba58ed5e2e5344696eaae6bc6ee2c9
-      internalID: -1444160911
+      spriteID: c1910995c1c26a24e8c025b5af0c75b3
+      internalID: -1002278436
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: beedrill_sprite_high resolution_2
+      name: beedrill_attack_set_2
       rect:
         serializedVersion: 2
-        x: 148
-        y: 345
-        width: 74
-        height: 69
+        x: 46
+        y: 1313
+        width: 19
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -161,20 +161,335 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d8231d6950d46c4478ef6acdc87bbbe6
-      internalID: -641564685
+      spriteID: 9d741813d1c90804b9656ce3f59fd713
+      internalID: -673403112
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: beedrill_sprite_high resolution_3
+      name: beedrill_attack_set_3
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1274
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90402a782732d9b499cddf33d96699fb
+      internalID: 779727175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beedrill_attack_set_4
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1287
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963ec8f9923fc6640b52f7eedecff7be
+      internalID: -932797023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beedrill_attack_set_5
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1310
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a6a21e516ebfc458b892c799925e23
+      internalID: 1134537433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beedrill_attack_set_6
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1304
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 593f87634880ba04bb9a3a02ddcf3678
+      internalID: -371990657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beedrill_attack_set_7
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1293
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1cbf07e24e4b8c4c8223fac668808da
+      internalID: -627916684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beedrill_attack_set_8
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1278
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af8181880209244a85f1cb68b2382ca
+      internalID: -1294652614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beedrill_attack_set_9
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1271
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cca7d79f930e4c43ae128aa759f2041
+      internalID: -1869785569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beedrill_attack_set_10
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1280
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b794ff37d851f97439e3ddf84ea22905
+      internalID: -1316647647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beedrill_attack_set_11
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1297
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20cd3e93bf799c24b91168a165f62c89
+      internalID: 1305999528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beedrill_attack_set_12
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1309
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5c66381529eac43b7881da4fd589f0
+      internalID: -1447747960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beedrill_attack_set_13
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1311
+        width: 23
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3637abcb62dc1cd44a8f9234f62fa4b8
+      internalID: 234069402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beedrill_attack_set_14
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1322
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f4232158c1dfe4aa3422f73db131c2
+      internalID: -866696753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beedrill_attack_set_15
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1311
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ecae28d667599745948c469c08ff50a
+      internalID: -1429828897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beedrill_attack_set_16
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1286
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e63d1dda59517498d26cf300a50b24
+      internalID: 1602977256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beedrill_attack_set_17
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1285
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0b8d24bd119344ab0f013944c7a821
+      internalID: -1311041411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beedrill_attack_set_18
       rect:
         serializedVersion: 2
         x: 222
-        y: 345
-        width: 74
-        height: 69
+        y: 1272
+        width: 9
+        height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -182,20 +497,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f668b5513653fbe40aa97a69162eff48
-      internalID: 477447425
+      spriteID: 191095044e8a9774a92bf0e8e148ad4d
+      internalID: 663092845
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: beedrill_sprite_high resolution_4
+      name: beedrill_attack_set_19
       rect:
         serializedVersion: 2
-        x: 296
-        y: 345
-        width: 74
-        height: 69
+        x: 272
+        y: 1283
+        width: 23
+        height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -203,20 +518,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1eb402b94d8305c41903822c823b57f0
-      internalID: -472195508
+      spriteID: dacdcdf5f9b75a947af1ef535e6f9622
+      internalID: 535917120
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: beedrill_sprite_high resolution_5
+      name: beedrill_attack_set_20
       rect:
         serializedVersion: 2
-        x: 370
-        y: 345
-        width: 74
-        height: 69
+        x: 338
+        y: 1294
+        width: 22
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -224,20 +539,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d4590adfb2d57194896a429c7453638d
-      internalID: 142064797
+      spriteID: 8aa22cbf39b0406419ca2f48a28ea539
+      internalID: -703605028
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: beedrill_sprite_high resolution_6
+      name: beedrill_attack_set_21
       rect:
         serializedVersion: 2
-        x: 444
-        y: 345
-        width: 74
-        height: 69
+        x: 374
+        y: 1297
+        width: 11
+        height: 11
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -245,20 +560,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 64531a3ffc3452447bf0e7a0e24891a2
-      internalID: -216196580
+      spriteID: b44fd6be582f75642bd72189a17f8030
+      internalID: 1346934058
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: beedrill_sprite_high resolution_7
+      name: beedrill_attack_set_22
       rect:
         serializedVersion: 2
-        x: 518
-        y: 345
-        width: 74
-        height: 69
+        x: 372
+        y: 1313
+        width: 15
+        height: 22
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -266,20 +581,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 36e371ad783418d4d9c31db4e009a652
-      internalID: 1628484471
+      spriteID: 9e3985f17e54d3442833fd72dc0901f9
+      internalID: 1291776037
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: beedrill_sprite_high resolution_8
+      name: beedrill_attack_set_23
       rect:
         serializedVersion: 2
-        x: 592
-        y: 345
-        width: 74
-        height: 69
+        x: 372
+        y: 1271
+        width: 15
+        height: 22
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -287,20 +602,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2c5eb6935579f02489f54a89f2fff174
-      internalID: -1027833296
+      spriteID: a1876c95c09d75f42ac5ac2470e86108
+      internalID: -1282534637
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: beedrill_sprite_high resolution_9
+      name: beedrill_attack_set_24
       rect:
         serializedVersion: 2
-        x: 666
-        y: 345
-        width: 74
-        height: 69
+        x: 400
+        y: 1292
+        width: 22
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -308,20 +623,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 99622b2f1f495e746b3bd205ea7b3487
-      internalID: -616709948
+      spriteID: a39b463e20428c24c843f2bee0948b8b
+      internalID: 204153986
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: beedrill_sprite_high resolution_10
+      name: beedrill_attack_set_25
       rect:
         serializedVersion: 2
-        x: 0
-        y: 276
-        width: 74
-        height: 69
+        x: 437
+        y: 1297
+        width: 19
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -329,20 +644,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b1c91809949cc774cadd353680e26f2f
-      internalID: 1719151746
+      spriteID: e79e7ec4e4872de4d82cfc6fdd373df8
+      internalID: -131364452
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: beedrill_sprite_high resolution_11
+      name: beedrill_attack_set_26
       rect:
         serializedVersion: 2
-        x: 74
-        y: 276
-        width: 74
-        height: 69
+        x: 469
+        y: 1299
+        width: 15
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -350,20 +665,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d74f1c55c37c4754e847a20f0da17f37
-      internalID: 1000554163
+      spriteID: 88365457af7f07d4c966a5a79e5865fa
+      internalID: 76440599
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: beedrill_sprite_high resolution_12
+      name: beedrill_attack_set_27
       rect:
         serializedVersion: 2
-        x: 148
-        y: 276
-        width: 74
-        height: 69
+        x: 467
+        y: 1289
+        width: 4
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -371,20 +686,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ac8d286e7daa70c46a0545e72e741870
-      internalID: -1359446487
+      spriteID: b4e0cf4a8d06a3a4c93d3ab725b75b90
+      internalID: -1017416295
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: beedrill_sprite_high resolution_13
+      name: beedrill_attack_set_28
       rect:
         serializedVersion: 2
-        x: 222
-        y: 276
-        width: 74
-        height: 69
+        x: 450
+        y: 1290
+        width: 7
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -392,20 +707,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 398297aabc96e7f4192896d951628066
-      internalID: 1282228844
+      spriteID: a59f5f2ad7440a14e824071e71e4337f
+      internalID: 1603045342
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: beedrill_sprite_high resolution_14
+      name: beedrill_attack_set_29
       rect:
         serializedVersion: 2
-        x: 296
-        y: 276
-        width: 74
-        height: 69
+        x: 437
+        y: 1272
+        width: 17
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -413,20 +728,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: eac6611845bf07f4db4a1f09b62d1e3d
-      internalID: 1127896336
+      spriteID: 934000c8b18ca354ba045e49eb7c194d
+      internalID: -1239347369
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: beedrill_sprite_high resolution_15
+      name: beedrill_attack_set_30
       rect:
         serializedVersion: 2
-        x: 370
-        y: 276
-        width: 74
-        height: 69
+        x: 467
+        y: 1272
+        width: 14
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -434,20 +749,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e16c116c61af3214ba74852eff037ab7
-      internalID: 349444032
+      spriteID: a75291b25dc83f84690a92d8ad16e8ab
+      internalID: -1451041389
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: beedrill_sprite_high resolution_16
+      name: beedrill_attack_set_31
       rect:
         serializedVersion: 2
-        x: 444
-        y: 276
-        width: 74
-        height: 69
+        x: 8
+        y: 1183
+        width: 56
+        height: 44
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -455,20 +770,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 58bb98fb3d8312347bbbe8d4f7604637
-      internalID: -1088251706
+      spriteID: 0d8ac6e184613d14ebb869a2a5b7e4d2
+      internalID: -1243983148
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: beedrill_sprite_high resolution_17
+      name: beedrill_attack_set_32
       rect:
         serializedVersion: 2
-        x: 518
-        y: 276
-        width: 74
-        height: 69
+        x: 78
+        y: 1181
+        width: 50
+        height: 44
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -476,20 +791,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5be09705f65d5a6458f2d2d796c173f5
-      internalID: -886736370
+      spriteID: da7dc87e65223234393ef58c10c5a194
+      internalID: 135732353
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: beedrill_sprite_high resolution_18
+      name: beedrill_attack_set_33
       rect:
         serializedVersion: 2
-        x: 592
-        y: 276
-        width: 74
-        height: 69
+        x: 143
+        y: 1177
+        width: 41
+        height: 53
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -497,20 +812,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 95fb2934e8730d44bbf7511d1028c500
-      internalID: 373177509
+      spriteID: d3585b1980249b842b20647d6354f3d1
+      internalID: 2097630741
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: beedrill_sprite_high resolution_19
+      name: beedrill_attack_set_34
       rect:
         serializedVersion: 2
-        x: 666
-        y: 276
-        width: 74
-        height: 69
+        x: 195
+        y: 1182
+        width: 41
+        height: 39
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -518,20 +833,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e89c0d303e74d9c49bffae3cbf79f873
-      internalID: -599964365
+      spriteID: 91e0852e66a0de246a4da259d5f3167d
+      internalID: 654668592
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: beedrill_sprite_high resolution_20
+      name: beedrill_attack_set_35
       rect:
         serializedVersion: 2
-        x: 0
-        y: 207
-        width: 74
-        height: 69
+        x: 9
+        y: 1106
+        width: 51
+        height: 49
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -539,20 +854,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2fe653452f97df04fb1f343f22d02d5d
-      internalID: -12477671
+      spriteID: a2209a831c21da640b646a9d61362a95
+      internalID: 1848324573
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: beedrill_sprite_high resolution_21
+      name: beedrill_attack_set_36
       rect:
         serializedVersion: 2
-        x: 74
-        y: 207
-        width: 74
-        height: 69
+        x: 76
+        y: 1107
+        width: 49
+        height: 49
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -560,20 +875,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8c709ca6eee25244fa2b08bd80a04880
-      internalID: 201668517
+      spriteID: 61a6da31655c9484da9b605253171d6c
+      internalID: 936393204
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: beedrill_sprite_high resolution_22
+      name: beedrill_attack_set_37
       rect:
         serializedVersion: 2
-        x: 148
-        y: 207
-        width: 74
-        height: 69
+        x: 162
+        y: 1110
+        width: 47
+        height: 50
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -581,20 +896,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0ce4b982c79018147b70833a2d8d8b8c
-      internalID: -1148505683
+      spriteID: 407ac19189bf9f84896439b521996e01
+      internalID: -1998163770
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: beedrill_sprite_high resolution_23
+      name: beedrill_attack_set_38
       rect:
         serializedVersion: 2
-        x: 222
-        y: 207
-        width: 74
-        height: 69
+        x: 228
+        y: 1110
+        width: 59
+        height: 51
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -602,20 +917,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fa3a38142a3ef134ebf481bc71387899
-      internalID: 1055354048
+      spriteID: 3829edf8d894b9445a3236164932f131
+      internalID: -1658152625
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: beedrill_sprite_high resolution_24
+      name: beedrill_attack_set_39
       rect:
         serializedVersion: 2
-        x: 296
-        y: 207
-        width: 74
-        height: 69
+        x: 300
+        y: 1112
+        width: 64
+        height: 50
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -623,20 +938,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1e13bc8d6555edc4998db864ea941899
-      internalID: 977958528
+      spriteID: 320560e137cea464a891b41394a159cf
+      internalID: 1516088351
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: beedrill_sprite_high resolution_25
+      name: beedrill_attack_set_40
       rect:
         serializedVersion: 2
-        x: 370
-        y: 207
-        width: 74
-        height: 69
+        x: 43
+        y: 1026
+        width: 41
+        height: 49
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -644,20 +959,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6ff85574e042de1438ff3617d5c834ff
-      internalID: -395773622
+      spriteID: f4b62b9b5bb6f47439311f997b970631
+      internalID: 1233048190
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: beedrill_sprite_high resolution_26
+      name: beedrill_attack_set_41
       rect:
         serializedVersion: 2
-        x: 444
-        y: 207
-        width: 74
-        height: 69
+        x: 143
+        y: 1026
+        width: 41
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -665,20 +980,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3e77f63ab1e35964096b9ca939725aff
-      internalID: 2145251167
+      spriteID: f47fcb48fb6a9fa4c982d2098f703c10
+      internalID: -220070744
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: beedrill_sprite_high resolution_27
+      name: beedrill_attack_set_42
       rect:
         serializedVersion: 2
-        x: 518
-        y: 207
-        width: 74
-        height: 69
+        x: 204
+        y: 1030
+        width: 100
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -686,20 +1001,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 521d13624e4046c4ba95166818cd1d54
-      internalID: 1725549411
+      spriteID: 410ddd0e743b83249bc697f32ed948b6
+      internalID: 1712544036
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: beedrill_sprite_high resolution_28
+      name: beedrill_attack_set_43
       rect:
         serializedVersion: 2
-        x: 592
-        y: 207
-        width: 74
-        height: 69
+        x: 322
+        y: 1032
+        width: 116
+        height: 49
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -707,20 +1022,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ad019041d881b2e4abb2e30c86b68d19
-      internalID: 2082917885
+      spriteID: 3fb2b04476c1ef4448c9c33bdfe63188
+      internalID: 1198539801
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: beedrill_sprite_high resolution_29
+      name: beedrill_attack_set_44
       rect:
         serializedVersion: 2
-        x: 666
-        y: 207
-        width: 74
-        height: 69
+        x: 5
+        y: 937
+        width: 58
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -728,20 +1043,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f3c60376fce33b342822e5a167b957bd
-      internalID: 1697905408
+      spriteID: 1aff41359f7384c49b4a3504bd4a5838
+      internalID: -496833150
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: beedrill_sprite_high resolution_30
+      name: beedrill_attack_set_45
       rect:
         serializedVersion: 2
-        x: 0
-        y: 138
-        width: 74
-        height: 69
+        x: 68
+        y: 937
+        width: 58
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -749,20 +1064,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bfd5d8d13db623140bb8ab1b1eaf6a47
-      internalID: 98655293
+      spriteID: 113cc5882d89d324084ca478a61bd0b4
+      internalID: 1168843917
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: beedrill_sprite_high resolution_31
+      name: beedrill_attack_set_46
       rect:
         serializedVersion: 2
-        x: 74
-        y: 138
-        width: 74
-        height: 69
+        x: 139
+        y: 941
+        width: 56
+        height: 45
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -770,20 +1085,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0ec5c34a61645e4458fead5b203b77f7
-      internalID: 72321469
+      spriteID: 4355faa646e468c49b2f4032254dbc94
+      internalID: -278481417
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: beedrill_sprite_high resolution_32
+      name: beedrill_attack_set_47
       rect:
         serializedVersion: 2
-        x: 148
-        y: 138
-        width: 74
-        height: 69
+        x: 213
+        y: 940
+        width: 56
+        height: 45
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -791,20 +1106,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d28253aaff2f51049a905978e121f8ef
-      internalID: 477099189
+      spriteID: dd0fbad8a66f61d41bdba69306459b7e
+      internalID: 1252312494
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: beedrill_sprite_high resolution_33
+      name: beedrill_attack_set_48
       rect:
         serializedVersion: 2
-        x: 222
-        y: 138
-        width: 74
-        height: 69
+        x: 11
+        y: 869
+        width: 51
+        height: 36
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -812,20 +1127,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 31a2859c888f05c4aa0f4a0091a2de1b
-      internalID: -186841956
+      spriteID: 77738cd1de9077a42a1585877b406732
+      internalID: -660663637
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: beedrill_sprite_high resolution_34
+      name: beedrill_attack_set_49
       rect:
         serializedVersion: 2
-        x: 296
-        y: 138
-        width: 74
-        height: 69
+        x: 2
+        y: 791
+        width: 42
+        height: 49
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -833,20 +1148,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2bbde96e1a6ddbe4aafeb72ee5d876e5
-      internalID: -1051377121
+      spriteID: 59a3aeed01212bb41a5cdc5eeb145451
+      internalID: -1837329278
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: beedrill_sprite_high resolution_35
+      name: beedrill_attack_set_50
       rect:
         serializedVersion: 2
-        x: 370
-        y: 138
-        width: 74
-        height: 69
+        x: 54
+        y: 797
+        width: 59
+        height: 45
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -854,20 +1169,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 408384a1aa3e70245a0b62053b564a6d
-      internalID: -163625100
+      spriteID: d70fc60e6d83f434795aa677ecb735be
+      internalID: -1460181494
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: beedrill_sprite_high resolution_36
+      name: beedrill_attack_set_51
       rect:
         serializedVersion: 2
-        x: 444
-        y: 138
-        width: 74
-        height: 69
+        x: 125
+        y: 799
+        width: 59
+        height: 46
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -875,20 +1190,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c30c4740ca0b56c42b7a703f4c1c883c
-      internalID: -1456713298
+      spriteID: 52058df658b1fbe48972fbd2a7ca43a8
+      internalID: 1561223910
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: beedrill_sprite_high resolution_37
+      name: beedrill_attack_set_52
       rect:
         serializedVersion: 2
-        x: 518
-        y: 138
-        width: 74
-        height: 69
+        x: 5
+        y: 714
+        width: 42
+        height: 50
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -896,20 +1211,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0382f71a8f3e9a44bba3e9a5b1d7d8fb
-      internalID: 185306284
+      spriteID: 57df7618839b51747adb4ac0886b85dc
+      internalID: -845587998
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: beedrill_sprite_high resolution_38
+      name: beedrill_attack_set_53
       rect:
         serializedVersion: 2
-        x: 592
-        y: 138
-        width: 74
-        height: 69
+        x: 61
+        y: 712
+        width: 65
+        height: 45
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -917,20 +1232,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1c49dbf95bf145d46975379119bc115f
-      internalID: 852974375
+      spriteID: 5824732da75938241a5fe60807e9fb9f
+      internalID: -585434314
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: beedrill_sprite_high resolution_39
+      name: beedrill_attack_set_54
       rect:
         serializedVersion: 2
-        x: 666
-        y: 138
-        width: 74
-        height: 69
+        x: 138
+        y: 712
+        width: 103
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -938,20 +1253,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a1d72cfee3b13b048899c3ca8b59a93d
-      internalID: 1434177500
+      spriteID: 3fb243528c635354dad62a8f16184e5d
+      internalID: -545454137
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: beedrill_sprite_high resolution_40
+      name: beedrill_attack_set_55
       rect:
         serializedVersion: 2
-        x: 0
-        y: 69
-        width: 74
-        height: 69
+        x: 5
+        y: 636
+        width: 49
+        height: 49
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -959,20 +1274,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 813415ec18cc61f4e9dc7fc151dd2da3
-      internalID: 682551466
+      spriteID: 36240d6b9d999c1419827fec9db1be3c
+      internalID: -1516290510
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: beedrill_sprite_high resolution_41
+      name: beedrill_attack_set_56
       rect:
         serializedVersion: 2
-        x: 74
-        y: 69
-        width: 74
-        height: 69
+        x: 73
+        y: 635
+        width: 50
+        height: 49
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -980,20 +1295,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e42ecdeda2bcdd1429453bec34aa97be
-      internalID: 1560581861
+      spriteID: b6bf39679687ec245a9edc5fe6d26953
+      internalID: -974462335
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: beedrill_sprite_high resolution_42
+      name: beedrill_attack_set_57
       rect:
         serializedVersion: 2
-        x: 148
-        y: 69
-        width: 74
-        height: 69
+        x: 139
+        y: 632
+        width: 58
+        height: 49
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1001,20 +1316,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4a5cb98b139db7349baceb52b53344fd
-      internalID: 1811928675
+      spriteID: bf3f82bb0db21fd44928f713d1dee81f
+      internalID: -630807210
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: beedrill_sprite_high resolution_43
+      name: beedrill_attack_set_58
       rect:
         serializedVersion: 2
-        x: 222
-        y: 69
-        width: 74
-        height: 69
+        x: 202
+        y: 632
+        width: 58
+        height: 49
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1022,344 +1337,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ceb9aca7dc37bca4da93478493f516f3
-      internalID: -1376532439
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: beedrill_sprite_high resolution_44
-      rect:
-        serializedVersion: 2
-        x: 296
-        y: 69
-        width: 74
-        height: 69
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5327fa56e5e84ac4ab30af2b4eb11d53
-      internalID: 40330657
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: beedrill_sprite_high resolution_45
-      rect:
-        serializedVersion: 2
-        x: 370
-        y: 69
-        width: 74
-        height: 69
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 411749588231dc742b5bfe72d9279d43
-      internalID: 1940772011
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: beedrill_sprite_high resolution_46
-      rect:
-        serializedVersion: 2
-        x: 444
-        y: 69
-        width: 74
-        height: 69
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d2ab0015a60e53b4ab3023fb86a27fb1
-      internalID: 812875697
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: beedrill_sprite_high resolution_47
-      rect:
-        serializedVersion: 2
-        x: 518
-        y: 69
-        width: 74
-        height: 69
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a09d3f0521bf0b44eaad116719175463
-      internalID: 1631645815
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: beedrill_sprite_high resolution_48
-      rect:
-        serializedVersion: 2
-        x: 592
-        y: 69
-        width: 74
-        height: 69
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cb91e36b0bfe1024e8778ff4c709e1a1
-      internalID: 1552997606
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: beedrill_sprite_high resolution_49
-      rect:
-        serializedVersion: 2
-        x: 666
-        y: 69
-        width: 74
-        height: 69
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 64513f3bd3df14444a1b9f95fbb0809a
-      internalID: 218409128
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: beedrill_sprite_high resolution_50
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 0
-        width: 74
-        height: 69
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 98336d5d9513a79469d1cb6987265860
-      internalID: -603507494
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: beedrill_sprite_high resolution_51
-      rect:
-        serializedVersion: 2
-        x: 74
-        y: 0
-        width: 74
-        height: 69
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0a66ca880bf353645a29e0e3859008b5
-      internalID: -311676759
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: beedrill_sprite_high resolution_52
-      rect:
-        serializedVersion: 2
-        x: 148
-        y: 0
-        width: 74
-        height: 69
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8f73123e38b11ae4f9adf71a7d474568
-      internalID: -1516986729
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: beedrill_sprite_high resolution_53
-      rect:
-        serializedVersion: 2
-        x: 222
-        y: 0
-        width: 74
-        height: 69
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 17e6213a59d641b42a4ad62cf461f205
-      internalID: -836837523
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: beedrill_sprite_high resolution_54
-      rect:
-        serializedVersion: 2
-        x: 296
-        y: 0
-        width: 74
-        height: 69
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e7222d3de5b97984f8bb3c09e351889d
-      internalID: 1477881045
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: beedrill_sprite_high resolution_55
-      rect:
-        serializedVersion: 2
-        x: 370
-        y: 0
-        width: 74
-        height: 69
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e0afc44f6a14883478baea10e6e6e74d
-      internalID: 344293765
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: beedrill_sprite_high resolution_56
-      rect:
-        serializedVersion: 2
-        x: 444
-        y: 0
-        width: 74
-        height: 69
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0d3e4ca57efb7484a91890e8c212ecd1
-      internalID: 1279706225
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: beedrill_sprite_high resolution_57
-      rect:
-        serializedVersion: 2
-        x: 518
-        y: 0
-        width: 74
-        height: 69
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d24b3486f04aa3d478448adda89e3ba6
-      internalID: -1319393793
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: beedrill_sprite_high resolution_58
-      rect:
-        serializedVersion: 2
-        x: 592
-        y: 0
-        width: 74
-        height: 69
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9ee5a3c31db80e444bfd187b17c4f1fa
-      internalID: 1000816497
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: beedrill_sprite_high resolution_59
-      rect:
-        serializedVersion: 2
-        x: 666
-        y: 0
-        width: 74
-        height: 69
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e171ed9700c40d6408dfc47f2e9ae12d
-      internalID: -910960620
+      spriteID: ab1a92d79e034c546b57864e61db1100
+      internalID: -1839216573
       vertices: []
       indices: 
       edges: []
@@ -1375,66 +1354,65 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      beedrill_sprite_high resolution_29: 1697905408
-      beedrill_sprite_high resolution_4: -472195508
-      beedrill_sprite_high resolution_21: 201668517
-      beedrill_sprite_high resolution_37: 185306284
-      beedrill_sprite_high resolution_38: 852974375
-      beedrill_sprite_high resolution_49: 218409128
-      beedrill_sprite_high resolution_0: 664830603
-      beedrill_sprite_high resolution_57: -1319393793
-      beedrill_sprite_high resolution_20: -12477671
-      beedrill_sprite_high resolution_41: 1560581861
-      beedrill_sprite_high resolution_34: -1051377121
-      beedrill_sprite_high resolution_58: 1000816497
-      beedrill_sprite_high resolution_14: 1127896336
-      beedrill_sprite_high resolution_1: -1444160911
-      beedrill_sprite_high resolution_45: 1940772011
-      beedrill_sprite_high resolution_3: 477447425
-      beedrill_sprite_high resolution_27: 1725549411
-      beedrill_sprite_high resolution_15: 349444032
-      beedrill_sprite_high resolution_50: -603507494
-      beedrill_sprite_high resolution_51: -311676759
-      beedrill_sprite_high resolution_55: 344293765
-      beedrill_sprite_high resolution_44: 40330657
-      beedrill_sprite_high resolution_35: -163625100
-      beedrill_sprite_high resolution_13: 1282228844
-      beedrill_sprite_high resolution_53: -836837523
-      beedrill_sprite_high resolution_59: -910960620
-      beedrill_sprite_high resolution_6: -216196580
-      beedrill_sprite_high resolution_48: 1552997606
-      beedrill_sprite_high resolution_24: 977958528
-      beedrill_sprite_high resolution_46: 812875697
-      beedrill_sprite_high resolution_2: -641564685
-      beedrill_sprite_high resolution_16: -1088251706
-      beedrill_sprite_high resolution_47: 1631645815
-      beedrill_sprite_high resolution_11: 1000554163
-      beedrill_sprite_high resolution_30: 98655293
-      beedrill_sprite_high resolution_56: 1279706225
-      beedrill_sprite_high resolution_32: 477099189
-      beedrill_sprite_high resolution_7: 1628484471
-      beedrill_sprite_high resolution_17: -886736370
-      beedrill_sprite_high resolution_18: 373177509
-      beedrill_sprite_high resolution_36: -1456713298
-      beedrill_sprite_high resolution_10: 1719151746
-      beedrill_sprite_high resolution_40: 682551466
-      beedrill_sprite_high resolution_54: 1477881045
-      beedrill_sprite_high resolution_22: -1148505683
-      beedrill_sprite_high resolution_19: -599964365
-      beedrill_sprite_high resolution_23: 1055354048
-      beedrill_sprite_high resolution_33: -186841956
-      beedrill_sprite_high resolution_31: 72321469
-      beedrill_sprite_high resolution_42: 1811928675
-      beedrill_sprite_high resolution_26: 2145251167
-      beedrill_sprite_high resolution_43: -1376532439
-      beedrill_sprite_high resolution_8: -1027833296
-      beedrill_sprite_high resolution_52: -1516986729
-      beedrill_sprite_high resolution_25: -395773622
-      beedrill_sprite_high resolution_9: -616709948
-      beedrill_sprite_high resolution_12: -1359446487
-      beedrill_sprite_high resolution_39: 1434177500
-      beedrill_sprite_high resolution_5: 142064797
-      beedrill_sprite_high resolution_28: 2082917885
+      beedrill_attack_set_14: -866696753
+      beedrill_attack_set_25: -131364452
+      beedrill_attack_set_45: -496833150
+      beedrill_attack_set_54: -585434314
+      beedrill_attack_set_29: -1239347369
+      beedrill_attack_set_6: -371990657
+      beedrill_attack_set_44: 1198539801
+      beedrill_attack_set_9: -1869785569
+      beedrill_attack_set_51: -1460181494
+      beedrill_attack_set_40: -878813429
+      beedrill_attack_set_32: 135732353
+      beedrill_attack_set_16: 1602977256
+      beedrill_attack_set_46: 1168843917
+      beedrill_attack_set_0: -391684426
+      beedrill_attack_set_2: -673403112
+      beedrill_attack_set_48: 1252312494
+      beedrill_attack_set_23: -1282534637
+      beedrill_attack_set_49: -660663637
+      beedrill_attack_set_21: 1346934058
+      beedrill_attack_set_35: 1848324573
+      beedrill_attack_set_47: -278481417
+      beedrill_attack_set_41: 1233048190
+      beedrill_attack_set_28: 1603045342
+      beedrill_attack_set_31: -1243983148
+      beedrill_attack_set_3: 779727175
+      beedrill_attack_set_58: -630807210
+      beedrill_attack_set_38: -1658152625
+      beedrill_attack_set_55: -545454137
+      beedrill_attack_set_52: 1561223910
+      beedrill_attack_set_26: 76440599
+      beedrill_attack_set_15: -1429828897
+      beedrill_attack_set_36: 936393204
+      beedrill_attack_set_43: 1712544036
+      beedrill_attack_set_17: -1311041411
+      beedrill_attack_set_22: 1291776037
+      beedrill_attack_set_12: -1447747960
+      beedrill_attack_set_18: 663092845
+      beedrill_attack_set_24: 204153986
+      beedrill_attack_set_19: 535917120
+      beedrill_attack_set_34: 654668592
+      beedrill_attack_set_8: -1294652614
+      beedrill_attack_set_5: 1134537433
+      beedrill_attack_set_33: 2097630741
+      beedrill_attack_set_50: -1837329278
+      beedrill_attack_set_10: -1316647647
+      beedrill_attack_set_7: -627916684
+      beedrill_attack_set_11: 1305999528
+      beedrill_attack_set_30: -1451041389
+      beedrill_attack_set_53: -845587998
+      beedrill_attack_set_42: -220070744
+      beedrill_attack_set_20: -703605028
+      beedrill_attack_set_13: 234069402
+      beedrill_attack_set_39: 1516088351
+      beedrill_attack_set_27: -1017416295
+      beedrill_attack_set_1: -1002278436
+      beedrill_attack_set_4: -932797023
+      beedrill_attack_set_56: -1516290510
+      beedrill_attack_set_37: -1998163770
+      beedrill_attack_set_57: -974462335
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
