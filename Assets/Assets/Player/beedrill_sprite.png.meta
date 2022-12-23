@@ -111,7 +111,7 @@ TextureImporter:
       213: 513237396303910982
     second: beedrill_sprite_35
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -132,6 +132,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -170,6 +171,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -976,6 +978,43 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      beedrill_sprite_2: 4469860136107251889
+      beedrill_sprite_8: 4652705198011081693
+      beedrill_sprite_15: 8185097622019709798
+      beedrill_sprite_25: 1343141052163167348
+      beedrill_sprite_11: 2749652842254286535
+      beedrill_sprite_10: -5346642431864014649
+      beedrill_sprite_0: -5869313169157342215
+      beedrill_sprite_29: -4502082562554013267
+      beedrill_sprite_13: 2407768813879740661
+      beedrill_sprite_16: 1944525680707496000
+      beedrill_sprite_7: -697787409801078537
+      beedrill_sprite_6: -6457192419076301591
+      beedrill_sprite_14: -3238735760649153202
+      beedrill_sprite_31: 1530906919983056111
+      beedrill_sprite_4: 4804596977196302433
+      beedrill_sprite_20: 2550562482527191046
+      beedrill_sprite_26: -1884567703481546945
+      beedrill_sprite_19: -3964551644959040642
+      beedrill_sprite_23: 6086159855120461691
+      beedrill_sprite_27: -7618308669857331895
+      beedrill_sprite_32: -8051006802874466852
+      beedrill_sprite_9: -9048017330299679000
+      beedrill_sprite_22: 6568989079802969955
+      beedrill_sprite_33: 2559894278677194097
+      beedrill_sprite_5: -4759821588149313954
+      beedrill_sprite_1: -8765074044035777105
+      beedrill_sprite_28: -8925923564709737436
+      beedrill_sprite_21: 4474977159993831728
+      beedrill_sprite_24: -8764049985516729870
+      beedrill_sprite_34: 5118691512074383454
+      beedrill_sprite_12: 5456619859187155664
+      beedrill_sprite_35: 513237396303910982
+      beedrill_sprite_3: -9148448394558114930
+      beedrill_sprite_17: -5831852364131470082
+      beedrill_sprite_18: 718079405653501694
+      beedrill_sprite_30: 6032720428144887488
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
