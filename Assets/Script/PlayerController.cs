@@ -6,6 +6,10 @@ public class PlayerController : MonoBehaviour
 {
     public float move = 0.03f;
 
+    public Transform bulletSpawnPoint;
+    public GameObject bulletPrefab;
+    public float bulletSpeed = 5f;
+
     void Start()
     {
         
@@ -15,6 +19,16 @@ public class PlayerController : MonoBehaviour
     void Update()
     {
         GetInputMovePlayer();
+        GetInputShooting();
+    }
+
+    private void GetInputShooting()
+    {
+        if (Input.GetKeyDown(KeyCode.Space))
+        {
+            var bullet = Instantiate(bulletPrefab, bulletSpawnPoint.position, bulletSpawnPoint.rotation);
+            bullet.GetComponent<Rigidbody2D>().velocity = bulletSpawnPoint.right * bulletSpeed;
+        }
     }
 
     private void GetInputMovePlayer()
@@ -44,4 +58,7 @@ public class PlayerController : MonoBehaviour
         transform.localPosition = pos;
         transform.localScale = scale;
     }
+
+    
+
 }
