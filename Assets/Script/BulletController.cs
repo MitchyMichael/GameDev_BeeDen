@@ -12,7 +12,7 @@ public class BulletController : MonoBehaviour
         {
             // Destroy(this);
             // gameObject.SetActive(false);
-            collision.gameObject.GetComponent<EnemyHealth>().TakeDamage(1);
+            collision.gameObject.GetComponent<EnemyController>().TakeDamage(1);
             Destroy(gameObject);
         }
     }

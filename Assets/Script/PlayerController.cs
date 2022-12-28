@@ -10,6 +10,9 @@ public class PlayerController : MonoBehaviour
     public GameObject bulletPrefab;
     public float bulletSpeed = 5f;
 
+    public float cooldown;
+    float lastShot;
+
     void Start()
     {
         
@@ -26,6 +29,11 @@ public class PlayerController : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.Space))
         {
+            if(Time.time - lastShot < cooldown)
+            {
+                return;
+            }
+            lastShot = Time.time;
             var bullet = Instantiate(bulletPrefab, bulletSpawnPoint.position, bulletSpawnPoint.rotation);
             bullet.GetComponent<Rigidbody2D>().velocity = bulletSpawnPoint.right * bulletSpeed;
         }
