@@ -10,8 +10,10 @@ public class BulletController : MonoBehaviour
     {
         if (collision.CompareTag("Enemy") || collision.CompareTag("Boss"))
         {
-            Destroy(this);
-            gameObject.SetActive(false);
+            // Destroy(this);
+            // gameObject.SetActive(false);
+            collision.gameObject.GetComponent<EnemyHealth>().TakeDamage(1);
+            Destroy(gameObject);
         }
     }
         
