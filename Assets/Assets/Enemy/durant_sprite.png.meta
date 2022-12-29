@@ -1,0 +1,1773 @@
+fileFormatVersion: 2
+guid: bd92311ae1ceb1644b8041f494b3783c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: durant_sprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 245
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c130741a3886be4cb15de8b9532d06d
+      internalID: -206676241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: durant_sprite_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 245
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b68fc38e1933c2c47825f7534d152d95
+      internalID: -536716743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: durant_sprite_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 245
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99ea07ebdb825746967416d09608a7a
+      internalID: 465897516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: durant_sprite_3
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 245
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d747159655d3d8c4a8c3be6d4dcbf656
+      internalID: -913601206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: durant_sprite_4
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 245
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c992a33ee731c4f8a5ab9ef5b1a951
+      internalID: -2064836474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: durant_sprite_5
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 245
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5310be02a9df944b499f9a755193f5
+      internalID: 1423530759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: durant_sprite_6
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 245
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ec7db1b6ed6b344b9a751c84a751b2
+      internalID: 583630666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: durant_sprite_7
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 245
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f102b1927fb744ba297cda34b0205d
+      internalID: 1554379010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: durant_sprite_8
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 245
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c776e30eb29d6f45936c1393e3d2d78
+      internalID: -1035268372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: durant_sprite_9
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 245
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c366d4bd62dd5be4c82fdcb325a80e6c
+      internalID: -404448124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: durant_sprite_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 210
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c360871c081833f42a67e6623e5ad575
+      internalID: -1300141499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: durant_sprite_11
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 210
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc01fdd654d88343a916c59e7db783c
+      internalID: -863060454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: durant_sprite_12
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 210
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e671ee27bfbd86c4a88a035a4df1bebd
+      internalID: -241415693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: durant_sprite_13
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 210
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17624dda1a7f3d54296c03531d98e572
+      internalID: -111518281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: durant_sprite_14
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 210
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9235d044db34b3944984bf79e91b71d5
+      internalID: -356557454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: durant_sprite_15
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 210
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c8e9e503a2c654fa7d5865ef5f6020
+      internalID: 2125007347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: durant_sprite_16
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 210
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961f85e0f1017af49a63c91ecb7ea604
+      internalID: 1165593043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: durant_sprite_17
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 210
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6fd64930918e4439322041571f2908
+      internalID: 1409637078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: durant_sprite_18
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 210
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8806c4003722d4fa1195c500ed0853
+      internalID: 1605377195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: durant_sprite_19
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 210
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45a1dd74eba28041b51a99ffe2caa3b
+      internalID: 1230307312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: durant_sprite_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 175
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b3e3df562f06449a7000db7cc02e47
+      internalID: 1610229483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: durant_sprite_21
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 175
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648ae2040d4de144ca0ad386d4e3544e
+      internalID: -570048721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: durant_sprite_22
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 175
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54d41ed557e8974db7e82c452b660ce
+      internalID: -516504419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: durant_sprite_23
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 175
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7428d44eb39b50a4fa25aaee5063b091
+      internalID: 1135859014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: durant_sprite_24
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 175
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4180558186687ef49bd95805ce23196d
+      internalID: -271223699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: durant_sprite_25
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 175
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b47d73447300124484c8748e17d6326
+      internalID: 2039117968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: durant_sprite_26
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 175
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef54293704dfae489fc1c7868cf8b50
+      internalID: 1006568962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: durant_sprite_27
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 175
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2140d151a090ad34ab7033acb1bf6a22
+      internalID: -127036663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: durant_sprite_28
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 175
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e2eb853b2a1fc40adc83bcf3fd12cf
+      internalID: -346102367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: durant_sprite_29
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 175
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10319ed7bc8247948b97b73be0849e02
+      internalID: 1634491568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: durant_sprite_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b89572d1a3e65984ab77167848d41903
+      internalID: 1663479691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: durant_sprite_31
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 140
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb0a62bc2e08c54496e023e2b8849db
+      internalID: -1589018070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: durant_sprite_32
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 140
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dba191c98016b145bc47b854e2efba4
+      internalID: -695741428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: durant_sprite_33
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 140
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a900e9374f8172141b1c186207c7c1b7
+      internalID: 2037859363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: durant_sprite_34
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 140
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 691c1ed038db2304a9a4ea238c47586a
+      internalID: -431281329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: durant_sprite_35
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 140
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67396e51fd36f274d9c7dffa4c18feea
+      internalID: 868474932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: durant_sprite_36
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 140
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808579043439bfe428e0d763c38e837c
+      internalID: 195470581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: durant_sprite_37
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 140
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1fbc744c2fe6a4d834836410c1f30e
+      internalID: 1638137487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: durant_sprite_38
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 140
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b073fe26c2936ed4893c894b4c846ada
+      internalID: 1161041175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: durant_sprite_39
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 140
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcfabe177d9c49b41b3e878ffa28c554
+      internalID: -954772262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: durant_sprite_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 105
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b579cabf9e9cda41966b0da058e81fb
+      internalID: -216783871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: durant_sprite_41
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 105
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d398d4c1e4290df4e8a60438630deb98
+      internalID: -2136161513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: durant_sprite_42
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 105
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197a740964f965d48b1111f746e7ad6a
+      internalID: 545761631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: durant_sprite_43
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 105
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d25cdbc892b2a14da20d4fee5f39abb
+      internalID: -1061126298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: durant_sprite_44
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 105
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2e457bc4fc59b41b9394ea5af9c36e
+      internalID: -1617921692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: durant_sprite_45
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 105
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53eaf98356d41ae49b63e7743a415d89
+      internalID: -1157886470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: durant_sprite_46
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 105
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 691f8d4bd37b6a04a829afa52b460172
+      internalID: -2142617637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: durant_sprite_47
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 105
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab5a779021f727e4592ee6f65a415674
+      internalID: 849738196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: durant_sprite_48
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 105
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ab451aea1fef147a04e5d893bb586c
+      internalID: 975242775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: durant_sprite_49
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 105
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e940db39b2e518b46aa80acebc8e818d
+      internalID: -15345944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: durant_sprite_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 70
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc542c1ad546234aa67a612614901bc
+      internalID: 101873811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: durant_sprite_51
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 70
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 743196360d6c66e419668657055cf6dc
+      internalID: 1425148310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: durant_sprite_52
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 70
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65257c1ef6bc2f14090fb8e2a12354cd
+      internalID: 1771912723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: durant_sprite_53
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 70
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dcaaa86ec06ef44a984435ac416e51d
+      internalID: -1989708428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: durant_sprite_54
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 70
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119c3931b8c715140b6413c09fab5303
+      internalID: -555531153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: durant_sprite_55
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 70
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25d8d93ecfb9b4469204ae663a86eb2
+      internalID: 1381605129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: durant_sprite_56
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 70
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7706b5f669350448a32da567271792
+      internalID: 1288837655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: durant_sprite_57
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 70
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7be57d74eb09f44ead39d8fd9bd3046
+      internalID: 415662195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: durant_sprite_58
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 70
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e5216c28a28fc4ebbab75162559081
+      internalID: -2058983436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: durant_sprite_59
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 70
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061c33281359e9346bb6720a8ec9b235
+      internalID: 643656903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: durant_sprite_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 35
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf1cb78def53024faabed5841bc757d
+      internalID: -1949133750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: durant_sprite_61
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 35
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc90620b38f397640af6b93a43c09757
+      internalID: -2115572104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: durant_sprite_62
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 35
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16967f3bf606afd42898cab436bef54a
+      internalID: -1052139045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: durant_sprite_63
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 35
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40de59a984821734ab6a788367a89c8c
+      internalID: -41878520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: durant_sprite_64
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 35
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca1c12f92c58494faa9c5c90fdb2b76
+      internalID: -1866271217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: durant_sprite_65
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 35
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03da31d31be12594f8342777c227c10c
+      internalID: -806279690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: durant_sprite_66
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 35
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1039a103e642f774096a77ae852e9247
+      internalID: -934482317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: durant_sprite_67
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 35
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1106f8459b909047b9341d4cc4e79d8
+      internalID: -1888332285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: durant_sprite_68
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 35
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666c6e810e8930a4190ea9320bc262e7
+      internalID: 562373003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: durant_sprite_69
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 35
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f5af32558751b49aa5ab9f131688b5
+      internalID: -279233388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: durant_sprite_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b430f800375f82b4f8b663fe927cf9e4
+      internalID: -1174486002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: durant_sprite_71
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19777c5989201f04da44b26626c20cc5
+      internalID: 1269437150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: durant_sprite_72
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28175d30d31e1584ca95fbfb8c8a7034
+      internalID: 96743971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: durant_sprite_73
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12785885d14b811429d31eabe875344b
+      internalID: 769178868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: durant_sprite_74
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 0
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290c50176a279d04eb778e25f6a8c849
+      internalID: -418851051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      durant_sprite_70: -1174486002
+      durant_sprite_0: -206676241
+      durant_sprite_73: 769178868
+      durant_sprite_2: 465897516
+      durant_sprite_68: 562373003
+      durant_sprite_21: -570048721
+      durant_sprite_59: 643656903
+      durant_sprite_56: 1288837655
+      durant_sprite_34: -431281329
+      durant_sprite_44: -1617921692
+      durant_sprite_46: -2142617637
+      durant_sprite_74: -418851051
+      durant_sprite_19: 1230307312
+      durant_sprite_65: -806279690
+      durant_sprite_51: 1425148310
+      durant_sprite_43: -1061126298
+      durant_sprite_57: 415662195
+      durant_sprite_41: -2136161513
+      durant_sprite_64: -1866271217
+      durant_sprite_22: -516504419
+      durant_sprite_11: -863060454
+      durant_sprite_13: -111518281
+      durant_sprite_48: 975242775
+      durant_sprite_20: 1610229483
+      durant_sprite_31: -1589018070
+      durant_sprite_72: 96743971
+      durant_sprite_50: 101873811
+      durant_sprite_30: 1663479691
+      durant_sprite_45: -1157886470
+      durant_sprite_55: 1381605129
+      durant_sprite_1: -536716743
+      durant_sprite_12: -241415693
+      durant_sprite_15: 2125007347
+      durant_sprite_54: -555531153
+      durant_sprite_39: -954772262
+      durant_sprite_3: -913601206
+      durant_sprite_4: -2064836474
+      durant_sprite_63: -41878520
+      durant_sprite_67: -1888332285
+      durant_sprite_58: -2058983436
+      durant_sprite_53: -1989708428
+      durant_sprite_16: 1165593043
+      durant_sprite_8: -1035268372
+      durant_sprite_37: 1638137487
+      durant_sprite_25: 2039117968
+      durant_sprite_27: -127036663
+      durant_sprite_38: 1161041175
+      durant_sprite_6: 583630666
+      durant_sprite_49: -15345944
+      durant_sprite_28: -346102367
+      durant_sprite_32: -695741428
+      durant_sprite_35: 868474932
+      durant_sprite_26: 1006568962
+      durant_sprite_42: 545761631
+      durant_sprite_17: 1409637078
+      durant_sprite_61: -2115572104
+      durant_sprite_60: -1949133750
+      durant_sprite_33: 2037859363
+      durant_sprite_62: -1052139045
+      durant_sprite_10: -1300141499
+      durant_sprite_9: -404448124
+      durant_sprite_7: 1554379010
+      durant_sprite_66: -934482317
+      durant_sprite_29: 1634491568
+      durant_sprite_47: 849738196
+      durant_sprite_18: 1605377195
+      durant_sprite_24: -271223699
+      durant_sprite_23: 1135859014
+      durant_sprite_40: -216783871
+      durant_sprite_52: 1771912723
+      durant_sprite_69: -279233388
+      durant_sprite_71: 1269437150
+      durant_sprite_14: -356557454
+      durant_sprite_36: 195470581
+      durant_sprite_5: 1423530759
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
