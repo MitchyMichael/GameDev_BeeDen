@@ -158,11 +158,15 @@ MonoBehaviour:
     noOfEnemies: 3
     typeOfEnemies:
     - {fileID: 8226196057301143749, guid: 343e21428d7e1b34c976a5dba2a523a1, type: 3}
+    - {fileID: 8226196057301143749, guid: 794d68d303021284b989ec1364684829, type: 3}
+    - {fileID: 899932908622682093, guid: 4ecbe288dcb07d24eaf3df4cb9ce181b, type: 3}
     spawnInterval: 2
   - waveName: Wave 2
     noOfEnemies: 5
     typeOfEnemies:
     - {fileID: 8226196057301143749, guid: 343e21428d7e1b34c976a5dba2a523a1, type: 3}
+    - {fileID: 8226196057301143749, guid: 794d68d303021284b989ec1364684829, type: 3}
+    - {fileID: 899932908622682093, guid: 4ecbe288dcb07d24eaf3df4cb9ce181b, type: 3}
     spawnInterval: 1
   - waveName: Final Wave
     noOfEnemies: 1
