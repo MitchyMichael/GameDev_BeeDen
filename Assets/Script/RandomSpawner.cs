@@ -5,7 +5,7 @@ using UnityEngine;
 public class RandomSpawner : MonoBehaviour
 {
     public GameObject enemyPrefab;
-    public float delay = 1f;
+    public float delay = 2f;
 
     // Start is called before the first frame update
     void Start()
