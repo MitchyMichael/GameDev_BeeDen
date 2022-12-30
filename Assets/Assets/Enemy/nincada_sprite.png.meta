@@ -1,0 +1,2477 @@
+fileFormatVersion: 2
+guid: 95674e752a11b4b40bda1e9176250c48
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: nincada_sprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 340
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71e0114ef2dbb242abc24400827b00e
+      internalID: -874081009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 340
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c148390fb373a4394af950e4a80721
+      internalID: 1630857137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_2
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 340
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e5a0d7ceac8014ab4f21c313e83518
+      internalID: -1924751728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_3
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 340
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02bb4be372298db4090a761862db0f3e
+      internalID: -1470376727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_4
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 340
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36927f0804c50fa41b8202badeecb083
+      internalID: -1063792177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_5
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 340
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eefe719483a6da458d2ce2079044bbb
+      internalID: 1640728745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_6
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 340
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f80930f96b3808479ea5932d0f736f9
+      internalID: -954675474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_7
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 340
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2537c8314c5c588428559eec780d1e38
+      internalID: 1144532483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_8
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 340
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b560531ec4a2704db1c5df8813a69b7
+      internalID: 1103430996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_9
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 340
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f60ccdc38bb6c4e9f10cee18c23b33
+      internalID: -888066505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 306
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69bbf39586a5e64b9d3f55991eab834
+      internalID: -1862285889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_11
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 306
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f924731ae40fed49b226cb2448d51c1
+      internalID: -1396072703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_12
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 306
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9541434f3322e34c8bf184209cdd9d6
+      internalID: 838445024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_13
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 306
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fda1d309eba83a44b84f7e900e0b82e
+      internalID: 1526308144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_14
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 306
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2e51c2ff6b6e842aff91e38f8efa28
+      internalID: -1438843380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_15
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 306
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046edfcfb6caa474a9194edd29989916
+      internalID: 1675304355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_16
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 306
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a15fdaf5c7fcb4dbdf85186548426d
+      internalID: 1725294224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_17
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 306
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2026cdf5b92889a49bbfbd05b23509a7
+      internalID: 931595279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_18
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 306
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ad103c6b62b984bbfc743e4d7b6f3d
+      internalID: -64767155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_19
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 306
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf2b8588949844429f7e779a742504c
+      internalID: 1516614219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 272
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2de31ee9edf054685e8ba888400a6e
+      internalID: 988532576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_21
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 272
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dab9b9d572e64448b55911ab9dd4d2f
+      internalID: -1754023226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_22
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 272
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912f97b6ebf9cae4f9c5aca30ba823f5
+      internalID: 457261072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_23
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 272
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 846c720119b879f46a480be04d055ec7
+      internalID: -464582477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_24
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 272
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e411e480b9ad504893502797a39160f
+      internalID: -1580751237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_25
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 272
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a401b369dba42b45b0c8ff891c883b9
+      internalID: 1057436686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_26
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 272
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27fb2fc3404f26b4da06aa82e75934d8
+      internalID: 618578145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_27
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 272
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04fb649dd5de7a43b0bc76386726a37
+      internalID: 1476494083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_28
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 272
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7053cfef73d97408ff1c464d2b259b
+      internalID: 1949375699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_29
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 272
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0259a7c74ba6cd4392ff8ce02b383c8
+      internalID: -1282206276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 238
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25187d070416cf242b792c8914e1e739
+      internalID: -488592687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_31
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 238
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3588846f842cf3a42adeaad2be48569c
+      internalID: -1930198794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_32
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 238
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af7802d4ba902146a7825ef2d33b8e0
+      internalID: 1297532784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_33
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 238
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b1267b2d180f945b39e4a876de4bd3
+      internalID: 901177299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_34
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 238
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf3940b89fd15749b03f9e0e042acc4
+      internalID: -1897888058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_35
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 238
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f039287be7814948ace1efa06e2dd4f
+      internalID: 384064030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_36
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 238
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1e5d3c28c74704c94a94efe2b963b6
+      internalID: -1661341219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_37
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 238
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ad9ecc8fc5c294ca1166c7c5a6168a
+      internalID: -591902960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_38
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 238
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a23afe4b5c825446bba287c439e361d
+      internalID: -728374471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_39
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 238
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ba06160d8ac604cb7fc9de544c9e57
+      internalID: 2139616886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 204
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346d6a082ac685145978adee1fa2ce5c
+      internalID: -2124518795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_41
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 204
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ab85737a155444aba851011e7eeea0
+      internalID: -1281411245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_42
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 204
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9f9ee8701817347910b9d8373c51d1
+      internalID: -577423971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_43
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 204
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3648e8ee738114eafc9c251af17f5b
+      internalID: 1813922624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_44
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 204
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27da2148c0f3e14faa2709f41d26c7e
+      internalID: 541765245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_45
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 204
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418edb0aefb1b154eaeca6016b9e9441
+      internalID: -684142118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_46
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 204
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5d65c72bb71224d838bc78302bd46e
+      internalID: -887546250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_47
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 204
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa15e263d1a4124ebc83e88f2b2ba89
+      internalID: 850541917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_48
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 204
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd27253704f59b479812e32fabd687e
+      internalID: 1610350371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_49
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 204
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b50868897823244be631048650d7fa
+      internalID: 1976316867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 170
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a21a4d16c68bae41acf484f8f46efbd
+      internalID: 98340366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_51
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 170
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065ee292b12bc2c448110dd57212f0cf
+      internalID: 2140569560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_52
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 170
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76512c83f657644baab96ac949701f7
+      internalID: -2085545790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_53
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 170
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 133bb67e15ac63d4e8fb5ee6555bf13d
+      internalID: 1482105823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_54
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 170
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51ec63e68fa0ff488b78f3456ed782c
+      internalID: -299638644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_55
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 170
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ca23de46511ed46b68b4f41fb2f940
+      internalID: -1408632892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_56
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 170
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4d61e289b34bf41a3a72371ffa6aee
+      internalID: 1704962786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_57
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 170
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec48f095011f8940a8d75df28750452
+      internalID: 98534732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_58
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 170
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d38f922acc6dc4fa797e3409adbac1
+      internalID: -2033824866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_59
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 170
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe2d4e143435ec4a83c63980e0570d0
+      internalID: 848140436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 136
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8f736c1fce1a74ba95d62ba295b0c3
+      internalID: -315481553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_61
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 136
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850f7465370137a4985545e932b3cad7
+      internalID: 1683820781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_62
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 136
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6859b878f9dbce041bcb95171fc69340
+      internalID: -1565021491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_63
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 136
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49e7f7715b18134d9fc6010c32db059
+      internalID: 1944434270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_64
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 136
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f483b15ed0a30b948b0919c2d40260c2
+      internalID: 1073946747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_65
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 136
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b9cba97fde9b54db37ebdd174c4328
+      internalID: 1171179814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_66
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 136
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01fdb899f891fc64782280b411cc640d
+      internalID: -528975915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_67
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 136
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54459d8de49be314fa34daa71bd0ac16
+      internalID: -708841843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_68
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 136
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0166ab4c54eaf184b8fffe32bc0ee83c
+      internalID: -260170215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_69
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 136
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b320b00deba3041961e64930794a2c
+      internalID: -2110790623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 102
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cfba61af410f6642aa137fa0be299bd
+      internalID: -495661529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_71
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 102
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853ecf6a77cb2af46b9c6bd270552c6b
+      internalID: -88284170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_72
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 102
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca381edbb931d046b98f60db4fccdf6
+      internalID: -1308031554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_73
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 102
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4da451e7506a64181d8104a66ae5bc
+      internalID: 883162994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_74
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 102
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c561955bfb39a44e88920f802caf4fa
+      internalID: -1647212116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_75
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 102
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1dbc750b0e41b44a7fc2587f483096
+      internalID: -166430269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_76
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 102
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33930185c57ccb45b2af2905d1c02eb
+      internalID: 1218751967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_77
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 102
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33af0c826ecfdf49947a806bc4f6de7
+      internalID: 1059026341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_78
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 102
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84185482a41d3714da3de703506f08c4
+      internalID: 767739758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_79
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 102
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32912d1e53e26bb459dc4e1d78d9a32e
+      internalID: -410029356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 68
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a0c9fe67cb1a94f9e89fb19c05f95e
+      internalID: -53449646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_81
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 68
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e81397897106d4d84bc45f5def369c
+      internalID: 2038104914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_82
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 68
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5d77f212d39534e8b8a5cc808d3146
+      internalID: -1593457813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_83
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 68
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02becfbb0248ba045b2f643d23795ec1
+      internalID: 1133710595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_84
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 68
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a427589374d97448a7dd08209710da
+      internalID: 321297803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_85
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 68
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7248223388b027542986c66ba703652a
+      internalID: 2105413243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_86
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 68
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e025d1f09e2a54409c79477d8fd9cb5
+      internalID: -2125679356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_87
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 68
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86cee4f9555c41b409f6b0d500d9a2e7
+      internalID: -1015485227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_88
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 68
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b168d53732ebd0442b0cfbc54b351eb0
+      internalID: -1707421230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_89
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 68
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91762f774fe7cae42910c346dd34313b
+      internalID: 809123070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 34
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5925694eaf4701b498f1ce218626cbf9
+      internalID: -1261884218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_91
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 34
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5065f27912782548a1eeb5dd478dc77
+      internalID: 1944404104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_92
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 34
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b85948d24b44045abb9c362e2b7323
+      internalID: 539600776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_93
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 34
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32a0d5e8331b1243aa5074cdea05269
+      internalID: -1254528768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_94
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 34
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039383cf79204c44a850eab2d77b7efe
+      internalID: -1136917760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_95
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 34
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 219cbf9a9705e90499e2987ce577437a
+      internalID: 1861379272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_96
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 34
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e962bf181a72644b628c745b582531
+      internalID: -1598251161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_97
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 34
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6afb7b96bc8ef4ea1f9a0354ba93e3
+      internalID: 1656687588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_98
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 34
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c669e351f58fdb94a9f082bba81a3e24
+      internalID: 752629555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_99
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 34
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0cfebde3fab94443ae93ed7371aff5a
+      internalID: -1325965751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163c934f0447c984e92463de4d42018b
+      internalID: 1891514943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_101
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 0
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c098c7caabb8dab4baa3162c2c5bfb28
+      internalID: 1732235971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_102
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 0
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3e9e61a0fb3a247820072ba19d1863
+      internalID: 2034081932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_103
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 0
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1900f9a2e16eb4bbbda7f8521eac22
+      internalID: -1779269130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_104
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 0
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276f20d1bca399d45ba200bc7aabc0d9
+      internalID: 1611236223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_105
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 0
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2049b0e6dc6f44b903de27eeb62ea8
+      internalID: -1407066902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nincada_sprite_106
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 0
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ae83ebd13f31f4f8f487894e6f1253
+      internalID: 380315684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      nincada_sprite_14: -1438843380
+      nincada_sprite_75: -166430269
+      nincada_sprite_5: 1640728745
+      nincada_sprite_66: -528975915
+      nincada_sprite_49: 1976316867
+      nincada_sprite_65: 1171179814
+      nincada_sprite_84: 321297803
+      nincada_sprite_19: 1516614219
+      nincada_sprite_24: -1580751237
+      nincada_sprite_90: -1261884218
+      nincada_sprite_18: -64767155
+      nincada_sprite_3: -1470376727
+      nincada_sprite_79: -410029356
+      nincada_sprite_83: 1133710595
+      nincada_sprite_100: 1891514943
+      nincada_sprite_81: 2038104914
+      nincada_sprite_31: -1930198794
+      nincada_sprite_80: -53449646
+      nincada_sprite_97: 1656687588
+      nincada_sprite_57: 98534732
+      nincada_sprite_61: 1683820781
+      nincada_sprite_6: -954675474
+      nincada_sprite_105: -1407066902
+      nincada_sprite_73: 883162994
+      nincada_sprite_87: -1015485227
+      nincada_sprite_20: 988532576
+      nincada_sprite_50: 98340366
+      nincada_sprite_69: -2110790623
+      nincada_sprite_89: 809123070
+      nincada_sprite_67: -708841843
+      nincada_sprite_58: -2033824866
+      nincada_sprite_98: 752629555
+      nincada_sprite_62: -1565021491
+      nincada_sprite_59: 848140436
+      nincada_sprite_99: -1325965751
+      nincada_sprite_55: -1408632892
+      nincada_sprite_60: -315481553
+      nincada_sprite_2: -1924751728
+      nincada_sprite_29: -1282206276
+      nincada_sprite_7: 1144532483
+      nincada_sprite_38: -728374471
+      nincada_sprite_54: -299638644
+      nincada_sprite_68: -260170215
+      nincada_sprite_10: -1862285889
+      nincada_sprite_16: 1725294224
+      nincada_sprite_43: 1813922624
+      nincada_sprite_45: -684142118
+      nincada_sprite_13: 1526308144
+      nincada_sprite_77: 1059026341
+      nincada_sprite_93: -1254528768
+      nincada_sprite_85: 2105413243
+      nincada_sprite_1: 1630857137
+      nincada_sprite_21: -1754023226
+      nincada_sprite_23: -464582477
+      nincada_sprite_88: -1707421230
+      nincada_sprite_42: -577423971
+      nincada_sprite_28: 1949375699
+      nincada_sprite_30: -488592687
+      nincada_sprite_46: -887546250
+      nincada_sprite_12: 838445024
+      nincada_sprite_37: -591902960
+      nincada_sprite_26: 618578145
+      nincada_sprite_94: -1136917760
+      nincada_sprite_9: -888066505
+      nincada_sprite_76: 1218751967
+      nincada_sprite_52: -2085545790
+      nincada_sprite_48: 1610350371
+      nincada_sprite_72: -1308031554
+      nincada_sprite_53: 1482105823
+      nincada_sprite_95: 1861379272
+      nincada_sprite_39: 2139616886
+      nincada_sprite_78: 767739758
+      nincada_sprite_104: 1611236223
+      nincada_sprite_91: 1944404104
+      nincada_sprite_40: -2124518795
+      nincada_sprite_56: 1704962786
+      nincada_sprite_44: 541765245
+      nincada_sprite_92: 539600776
+      nincada_sprite_96: -1598251161
+      nincada_sprite_0: -874081009
+      nincada_sprite_4: -1063792177
+      nincada_sprite_25: 1057436686
+      nincada_sprite_103: -1779269130
+      nincada_sprite_71: -88284170
+      nincada_sprite_106: 380315684
+      nincada_sprite_35: 384064030
+      nincada_sprite_82: -1593457813
+      nincada_sprite_11: -1396072703
+      nincada_sprite_15: 1675304355
+      nincada_sprite_27: 1476494083
+      nincada_sprite_70: -495661529
+      nincada_sprite_63: 1944434270
+      nincada_sprite_33: 901177299
+      nincada_sprite_51: 2140569560
+      nincada_sprite_17: 931595279
+      nincada_sprite_64: 1073946747
+      nincada_sprite_36: -1661341219
+      nincada_sprite_86: -2125679356
+      nincada_sprite_101: 1732235971
+      nincada_sprite_34: -1897888058
+      nincada_sprite_74: -1647212116
+      nincada_sprite_8: 1103430996
+      nincada_sprite_41: -1281411245
+      nincada_sprite_47: 850541917
+      nincada_sprite_102: 2034081932
+      nincada_sprite_32: 1297532784
+      nincada_sprite_22: 457261072
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
