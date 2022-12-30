@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PlayerController : MonoBehaviour
 {
@@ -13,9 +14,12 @@ public class PlayerController : MonoBehaviour
     public float cooldown;
     float lastShot;
 
+    public GameObject[] hearts;
+    public int life;
+
     void Start()
     {
-        
+        life = hearts.Length;
     }
 
     
@@ -67,6 +71,17 @@ public class PlayerController : MonoBehaviour
         transform.localScale = scale;
     }
 
-    
+    public void TakeDamage(int amount)
+    {
+        if (life >= 1)
+        {
+            life -= amount;
+            Destroy(hearts[life].gameObject);
+            if (life < 1)
+            {
+                SceneManager.LoadScene("GameOver");
+            }
+        }
+    }
 
 }

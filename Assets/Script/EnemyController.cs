@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class EnemyController : MonoBehaviour
 {
@@ -19,6 +20,12 @@ public class EnemyController : MonoBehaviour
     void Update()
     {
         transform.Translate(-1 * Time.deltaTime * speed, 0, 0);
+
+        if (gameObject.transform.position.x <= -10)
+        {
+            Destroy(gameObject);
+            SceneManager.LoadScene("GameOver");
+        }
     }
 
     public void TakeDamage(int amount)
@@ -26,6 +33,15 @@ public class EnemyController : MonoBehaviour
         currentHealth -=  amount;
         if(currentHealth <= 0)
         {
+            Destroy(gameObject);
+        }
+    }
+
+    void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.CompareTag("Player"))
+        {
+            collision.gameObject.GetComponent<PlayerController>().TakeDamage(1);
             Destroy(gameObject);
         }
     }

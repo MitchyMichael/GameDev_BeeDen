@@ -7,16 +7,19 @@ public class SelectDifficulty : MonoBehaviour
 {
     public void easyButton()
     {
+        PlayerPrefs.SetString("Difficulty", "Easy");
         SceneManager.LoadScene("Easy");
     }
 
     public void mediumButton()
     {
+        PlayerPrefs.SetString("Difficulty", "Medium");
         SceneManager.LoadScene("Medium");
     }
 
     public void hardButton()
     {
+        PlayerPrefs.SetString("Difficulty", "Hard");
         SceneManager.LoadScene("Hard");
     }
 }
