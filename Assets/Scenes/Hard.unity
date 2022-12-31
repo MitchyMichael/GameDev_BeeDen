@@ -693,8 +693,8 @@ GameObject:
   - component: {fileID: 508159398}
   - component: {fileID: 508159397}
   - component: {fileID: 508159396}
-  m_Layer: 6
-  m_Name: top_border (2)
+  m_Layer: 3
+  m_Name: top_border
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -804,8 +804,8 @@ GameObject:
   - component: {fileID: 539675602}
   - component: {fileID: 539675601}
   - component: {fileID: 539675600}
-  m_Layer: 6
-  m_Name: bottom_border (2)
+  m_Layer: 3
+  m_Name: bottom_border
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -978,7 +978,7 @@ GameObject:
   - component: {fileID: 626010386}
   - component: {fileID: 626010385}
   m_Layer: 0
-  m_Name: WaveSpawner (2)
+  m_Name: WaveSpawner
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1020,23 +1020,26 @@ MonoBehaviour:
   - waveName: Wave 1
     noOfEnemies: 10
     typeOfEnemies:
-    - {fileID: 8226196057301143749, guid: 343e21428d7e1b34c976a5dba2a523a1, type: 3}
     - {fileID: 8226196057301143749, guid: 794d68d303021284b989ec1364684829, type: 3}
     - {fileID: 899932908622682093, guid: 4ecbe288dcb07d24eaf3df4cb9ce181b, type: 3}
+    - {fileID: 899932908622682093, guid: 2b4ad155df9b21e4da46046c671cc1f2, type: 3}
     spawnInterval: 2
   - waveName: Wave 2
     noOfEnemies: 15
     typeOfEnemies:
-    - {fileID: 8226196057301143749, guid: 343e21428d7e1b34c976a5dba2a523a1, type: 3}
-    - {fileID: 8226196057301143749, guid: 794d68d303021284b989ec1364684829, type: 3}
     - {fileID: 899932908622682093, guid: 4ecbe288dcb07d24eaf3df4cb9ce181b, type: 3}
+    - {fileID: 899932908622682093, guid: 2b4ad155df9b21e4da46046c671cc1f2, type: 3}
+    - {fileID: 899932908622682093, guid: 03a0c672c6842244ba888d39f113c562, type: 3}
+    - {fileID: 899932908622682093, guid: 947fe1d7bf828d944b5bbe753de685f4, type: 3}
     spawnInterval: 1.5
   - waveName: Wave 3
     noOfEnemies: 20
     typeOfEnemies:
-    - {fileID: 8226196057301143749, guid: 343e21428d7e1b34c976a5dba2a523a1, type: 3}
     - {fileID: 8226196057301143749, guid: 794d68d303021284b989ec1364684829, type: 3}
     - {fileID: 899932908622682093, guid: 4ecbe288dcb07d24eaf3df4cb9ce181b, type: 3}
+    - {fileID: 899932908622682093, guid: 2b4ad155df9b21e4da46046c671cc1f2, type: 3}
+    - {fileID: 899932908622682093, guid: 03a0c672c6842244ba888d39f113c562, type: 3}
+    - {fileID: 899932908622682093, guid: 947fe1d7bf828d944b5bbe753de685f4, type: 3}
     spawnInterval: 1.5
   - waveName: Wave 4
     noOfEnemies: 30
@@ -1044,6 +1047,9 @@ MonoBehaviour:
     - {fileID: 8226196057301143749, guid: 343e21428d7e1b34c976a5dba2a523a1, type: 3}
     - {fileID: 8226196057301143749, guid: 794d68d303021284b989ec1364684829, type: 3}
     - {fileID: 899932908622682093, guid: 4ecbe288dcb07d24eaf3df4cb9ce181b, type: 3}
+    - {fileID: 899932908622682093, guid: 2b4ad155df9b21e4da46046c671cc1f2, type: 3}
+    - {fileID: 899932908622682093, guid: 03a0c672c6842244ba888d39f113c562, type: 3}
+    - {fileID: 899932908622682093, guid: 947fe1d7bf828d944b5bbe753de685f4, type: 3}
     spawnInterval: 1.5
   - waveName: Final Wave
     noOfEnemies: 1
@@ -1327,8 +1333,8 @@ GameObject:
   - component: {fileID: 1154801889}
   - component: {fileID: 1154801888}
   - component: {fileID: 1154801887}
-  m_Layer: 6
-  m_Name: right_border (2)
+  m_Layer: 3
+  m_Name: right_border
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1439,7 +1445,7 @@ GameObject:
   - component: {fileID: 1187905219}
   - component: {fileID: 1187905218}
   m_Layer: 0
-  m_Name: EventSystem (2)
+  m_Name: EventSystem
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2181,8 +2187,8 @@ GameObject:
   - component: {fileID: 1889607815}
   - component: {fileID: 1889607814}
   - component: {fileID: 1889607813}
-  m_Layer: 6
-  m_Name: left_border (2)
+  m_Layer: 3
+  m_Name: left_border
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2446,6 +2452,10 @@ PrefabInstance:
     - target: {fileID: 8523446253834165453, guid: c7cdb4e746c5ada49a38e3b0bb2c6700, type: 3}
       propertyPath: m_Name
       value: Player
+      objectReference: {fileID: 0}
+    - target: {fileID: 8523446253834165455, guid: c7cdb4e746c5ada49a38e3b0bb2c6700, type: 3}
+      propertyPath: m_CollisionDetection
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8523446253834165456, guid: c7cdb4e746c5ada49a38e3b0bb2c6700, type: 3}
       propertyPath: m_RootOrder
