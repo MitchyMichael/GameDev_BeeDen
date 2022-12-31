@@ -183,7 +183,12 @@ MonoBehaviour:
   bulletSpawnPoint: {fileID: 8523446253444643053}
   bulletPrefab: {fileID: 3006692160679001600, guid: 7c15e69a28dd4074c9fd18cdb45bf308, type: 3}
   bulletSpeed: 5
+  PlayerShoot: {fileID: 8300000, guid: aabfedd30db7ed64e88d25b7f01a5ff3, type: 3}
+  PlayerHit: {fileID: 8300000, guid: e4f33d915166429429d5b881de9363a1, type: 3}
+  audioSourceSFX: {fileID: 0}
   cooldown: 0.5
+  hearts: []
+  life: 0
 --- !u!95 &8523446253834165459
 Animator:
   serializedVersion: 4

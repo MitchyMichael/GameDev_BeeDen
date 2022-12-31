@@ -10,6 +10,9 @@ public class PlayerController : MonoBehaviour
     public Transform bulletSpawnPoint;
     public GameObject bulletPrefab;
     public float bulletSpeed = 5f;
+    public AudioClip PlayerShoot;
+    public AudioClip PlayerHit;
+    public AudioSource audioSourceSFX;
 
     public float cooldown;
     float lastShot;
@@ -33,13 +36,14 @@ public class PlayerController : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.Space))
         {
-            if(Time.time - lastShot < cooldown)
+            if (Time.time - lastShot < cooldown)
             {
                 return;
             }
             lastShot = Time.time;
             var bullet = Instantiate(bulletPrefab, bulletSpawnPoint.position, bulletSpawnPoint.rotation);
             bullet.GetComponent<Rigidbody2D>().velocity = bulletSpawnPoint.right * bulletSpeed;
+            audioSourceSFX.PlayOneShot(PlayerShoot);
         }
     }
 
@@ -81,6 +85,7 @@ public class PlayerController : MonoBehaviour
             {
                 SceneManager.LoadScene("GameOver");
             }
+            audioSourceSFX.PlayOneShot(PlayerHit);
         }
     }
 
