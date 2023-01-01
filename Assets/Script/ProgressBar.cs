@@ -68,4 +68,21 @@ public class ProgressBar : MonoBehaviour
             }
         }
     }
+
+    public void upgradeBulletDamageButton()
+    {
+        CoinController.instance.SubtractCoin(150);
+        if (CoinController.instance.isUpgraded == true)
+        {
+            if (slider.value == 1)
+            {
+                Debug.Log("Progress Bar Full");
+            }
+            else
+            {
+                PlayerController.instance.upgradeBulletDamage();
+                IncrementProgress(0.5f);
+            }
+        }
+    }
 }

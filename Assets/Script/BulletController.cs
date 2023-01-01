@@ -3,19 +3,21 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class BulletController : MonoBehaviour
-{
-    
-   void OnTriggerEnter2D(Collider2D collision)
+{ 
+
+    void OnTriggerEnter2D(Collider2D collision)
     {
+        int damage = PlayerController.instance.bulletDamage;
+
         if (collision.CompareTag("Enemy"))
         {
-            collision.gameObject.GetComponent<EnemyController>().TakeDamage(1);
+            collision.gameObject.GetComponent<EnemyController>().TakeDamage(damage);
             Destroy(gameObject);
         }
 
         if (collision.CompareTag("Boss"))
         {
-            collision.gameObject.GetComponent<BossController>().TakeDamage(1);
+            collision.gameObject.GetComponent<BossController>().TakeDamage(damage);
             Destroy(gameObject);
         }
     }
