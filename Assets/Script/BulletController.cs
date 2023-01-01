@@ -7,7 +7,7 @@ public class BulletController : MonoBehaviour
 
     void OnTriggerEnter2D(Collider2D collision)
     {
-        int damage = PlayerController.instance.bulletDamage;
+        float damage = PlayerController.instance.bulletDamage;
 
         if (collision.CompareTag("Enemy"))
         {

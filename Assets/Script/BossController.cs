@@ -5,8 +5,8 @@ using UnityEngine.SceneManagement;
 
 public class BossController : MonoBehaviour
 {
-    public int maxHealth;
-    public int currentHealth;
+    public float maxHealth;
+    public float currentHealth;
     public float speed;
 
     // Start is called before the first frame update
@@ -27,7 +27,7 @@ public class BossController : MonoBehaviour
         }
     }
 
-    public void TakeDamage(int amount)
+    public void TakeDamage(float amount)
     {
         currentHealth -=  amount;
         

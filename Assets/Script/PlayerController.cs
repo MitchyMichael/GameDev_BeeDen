@@ -12,7 +12,7 @@ public class PlayerController : MonoBehaviour
     public Transform bulletSpawnPoint;
     public GameObject bulletPrefab;
     public float bulletSpeed;
-    public int bulletDamage;
+    public float bulletDamage;
     
     public AudioClip PlayerShoot;
     public AudioClip PlayerHit;
@@ -110,7 +110,7 @@ public class PlayerController : MonoBehaviour
 
     public void upgradeBulletDamage()
     {
-        bulletDamage += 1;
+        bulletDamage += 0.5f;
     }
 
 }

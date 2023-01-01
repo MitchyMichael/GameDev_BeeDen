@@ -5,8 +5,8 @@ using UnityEngine.SceneManagement;
 
 public class EnemyController : MonoBehaviour
 {
-    public int maxHealth;
-    public int currentHealth;
+    public float maxHealth;
+    public float currentHealth;
     public float speed;
     public static EnemyController instance;
 
@@ -34,7 +34,7 @@ public class EnemyController : MonoBehaviour
         }
     }
 
-    public void TakeDamage(int amount)
+    public void TakeDamage(float amount)
     {
         AudioClip enemyHit = PlayerController.instance.EnemyHit;
         PlayerController.instance.audioSourceSFX.PlayOneShot(enemyHit);

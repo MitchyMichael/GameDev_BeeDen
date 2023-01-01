@@ -71,7 +71,7 @@ public class ProgressBar : MonoBehaviour
 
     public void upgradeBulletDamageButton()
     {
-        CoinController.instance.SubtractCoin(150);
+        CoinController.instance.SubtractCoin(100);
         if (CoinController.instance.isUpgraded == true)
         {
             if (slider.value == 1)
