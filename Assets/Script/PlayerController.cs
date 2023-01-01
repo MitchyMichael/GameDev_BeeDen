@@ -15,6 +15,7 @@ public class PlayerController : MonoBehaviour
     
     public AudioClip PlayerShoot;
     public AudioClip PlayerHit;
+    public AudioClip enemyHit;
     public AudioSource audioSourceSFX;
 
     public float cooldown;
@@ -35,6 +36,10 @@ public class PlayerController : MonoBehaviour
 
     void Update()
     {
+        if(EnemyController.instance.enemyisHit == true)
+        {
+            audioSourceSFX.PlayOneShot(enemyHit);
+        }
         GetInputMovePlayer();
         GetInputShooting();
     }

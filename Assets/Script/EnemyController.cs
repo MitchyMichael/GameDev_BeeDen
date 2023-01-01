@@ -8,6 +8,14 @@ public class EnemyController : MonoBehaviour
     public int maxHealth;
     public int currentHealth;
     public float speed;
+    public bool enemyisHit = false;
+    public static EnemyController instance;
+
+
+    private void Awake()
+    {
+        instance = this;
+    }
 
     // Start is called before the first frame update
     void Start()
@@ -29,6 +37,7 @@ public class EnemyController : MonoBehaviour
 
     public void TakeDamage(int amount)
     {
+        enemyisHit = true;
         currentHealth -=  amount;
         
         if (currentHealth <= 0)
