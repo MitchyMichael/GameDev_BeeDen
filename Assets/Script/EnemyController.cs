@@ -8,7 +8,6 @@ public class EnemyController : MonoBehaviour
     public int maxHealth;
     public int currentHealth;
     public float speed;
-    public bool enemyisHit = false;
     public static EnemyController instance;
 
 
@@ -37,7 +36,8 @@ public class EnemyController : MonoBehaviour
 
     public void TakeDamage(int amount)
     {
-        enemyisHit = true;
+        AudioClip enemyHit = PlayerController.instance.EnemyHit;
+        PlayerController.instance.audioSourceSFX.PlayOneShot(enemyHit);
         currentHealth -=  amount;
         
         if (currentHealth <= 0)
