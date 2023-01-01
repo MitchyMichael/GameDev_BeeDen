@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 3544157553499822838}
   - component: {fileID: 3544157553499822839}
   - component: {fileID: 3544157553499822836}
-  - component: {fileID: 3544157553499822843}
+  - component: {fileID: 1279443021177640140}
   m_Layer: 8
   m_Name: Boss
   m_TagString: Boss
@@ -98,7 +98,7 @@ BoxCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: -0.03}
@@ -155,7 +155,7 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
---- !u!114 &3544157553499822843
+--- !u!114 &1279443021177640140
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -164,7 +164,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 3544157553499822837}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f8b26203d933e53418c100379e622682, type: 3}
+  m_Script: {fileID: 11500000, guid: b8237580d287d544188dcd4bb1995274, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   maxHealth: 12

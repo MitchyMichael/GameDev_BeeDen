@@ -149,6 +149,7 @@ MonoBehaviour:
   maxHealth: 3
   currentHealth: 0
   speed: 1
+  textCoin: {fileID: 0}
 --- !u!50 &-2329205952497853280
 Rigidbody2D:
   serializedVersion: 4

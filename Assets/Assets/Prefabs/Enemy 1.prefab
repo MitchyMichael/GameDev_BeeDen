@@ -170,3 +170,4 @@ MonoBehaviour:
   maxHealth: 4
   currentHealth: 0
   speed: 0.8
+  animator: {fileID: 8226196057301143748}

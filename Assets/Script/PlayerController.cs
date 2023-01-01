@@ -5,11 +5,14 @@ using UnityEngine.SceneManagement;
 
 public class PlayerController : MonoBehaviour
 {
+    public static PlayerController instance;
+
     public float move = 0.03f;
 
     public Transform bulletSpawnPoint;
     public GameObject bulletPrefab;
-    public float bulletSpeed = 5f;
+    public float bulletSpeed;
+    
     public AudioClip PlayerShoot;
     public AudioClip PlayerHit;
     public AudioSource audioSourceSFX;
@@ -20,12 +23,16 @@ public class PlayerController : MonoBehaviour
     public GameObject[] hearts;
     public int life;
 
+    private void Awake()
+    {
+        instance = this;
+    }
+
     void Start()
     {
         life = hearts.Length;
     }
 
-    
     void Update()
     {
         GetInputMovePlayer();
@@ -87,6 +94,16 @@ public class PlayerController : MonoBehaviour
             }
             audioSourceSFX.PlayOneShot(PlayerHit);
         }
+    }
+
+    public void upgradeCooldown()
+    {
+        cooldown -= 0.2f;
+    }
+
+    public void upgradeBulletSpeed()
+    {
+        bulletSpeed += 1;
     }
 
 }

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class EnemyController : MonoBehaviour
+public class BossController : MonoBehaviour
 {
     public int maxHealth;
     public int currentHealth;
@@ -34,7 +34,7 @@ public class EnemyController : MonoBehaviour
         if (currentHealth <= 0)
         {
             Destroy(gameObject);
-            CoinController.instance.AddCoin(10);
+            SceneManager.LoadScene("Victory");
         }
     }
 
@@ -42,8 +42,7 @@ public class EnemyController : MonoBehaviour
     {
         if (collision.CompareTag("Player"))
         {
-            collision.gameObject.GetComponent<PlayerController>().TakeDamage(1);
-            Destroy(gameObject);
+            SceneManager.LoadScene("GameOver");
         }
     }
 }

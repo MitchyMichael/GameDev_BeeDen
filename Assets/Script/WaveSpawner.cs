@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using TMPro;
 [System.Serializable]
 
@@ -41,10 +42,6 @@ public class WaveSpawner : MonoBehaviour
                     animator.SetTrigger("WaveComplete");
                     canAnimate = false;
                 }
-            }
-            else
-            {
-                Debug.Log("GameFinish");
             }
         }
     }
