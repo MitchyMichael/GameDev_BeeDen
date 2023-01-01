@@ -47,7 +47,7 @@ public class ProgressBar : MonoBehaviour
             else
             {
                 PlayerController.instance.upgradeCooldown();
-                IncrementProgress(0.2f);
+                IncrementProgress(0.25f);
             }
         }
     }

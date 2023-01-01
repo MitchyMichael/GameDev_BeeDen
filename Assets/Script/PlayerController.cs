@@ -99,12 +99,12 @@ public class PlayerController : MonoBehaviour
 
     public void upgradeCooldown()
     {
-        cooldown -= 0.2f;
+        cooldown -= 0.1f;
     }
 
     public void upgradeBulletSpeed()
     {
-        bulletSpeed += 1;
+        bulletSpeed += 1.5f;
     }
 
 }
