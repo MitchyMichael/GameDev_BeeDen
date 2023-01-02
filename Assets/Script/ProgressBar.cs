@@ -10,6 +10,8 @@ public class ProgressBar : MonoBehaviour
     public float FillSpeed = 0.5f;
     private float targetProgress = 0;
 
+    public KeyCode key;
+
     private void Awake()
     {
         slider = gameObject.GetComponent<Slider>();
@@ -18,7 +20,7 @@ public class ProgressBar : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+
     }
 
     // Update is called once per frame
@@ -27,6 +29,22 @@ public class ProgressBar : MonoBehaviour
         if (slider.value < targetProgress)
         {
             slider.value += FillSpeed * Time.deltaTime;
+        }
+
+        if (Input.GetKeyDown(key))
+        {
+            if (key == KeyCode.Alpha1)
+            {
+                upgradeCooldownButton();
+            }
+            if (key == KeyCode.Alpha2)
+            {
+                upgradeBulletSpeedButton();
+            }
+            if (key == KeyCode.Alpha3)
+            {
+                upgradeBulletDamageButton();
+            }
         }
     }
 

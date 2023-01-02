@@ -43,7 +43,7 @@ public class PlayerController : MonoBehaviour
 
     private void GetInputShooting()
     {
-        if (Input.GetKeyDown(KeyCode.Space))
+        if (Input.GetMouseButtonDown(0))
         {
             if (Time.time - lastShot < cooldown)
             {
@@ -62,22 +62,22 @@ public class PlayerController : MonoBehaviour
         Vector3 scale = transform.localScale;
 
         if (Input.GetKey(KeyCode.W)){
-            pos.y += move;
+            pos.y += move * Time.deltaTime;
         }
 
         if (Input.GetKey(KeyCode.A))
         {
-            pos.x -= move;
+            pos.x -= move * Time.deltaTime;
         }
 
         if (Input.GetKey(KeyCode.S))
         {
-            pos.y -= move;
+            pos.y -= move * Time.deltaTime;
         }
 
         if (Input.GetKey(KeyCode.D))
         {
-            pos.x += move;
+            pos.x += move * Time.deltaTime;
         }
 
         transform.localPosition = pos;
