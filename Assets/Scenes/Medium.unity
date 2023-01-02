@@ -2056,8 +2056,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 876524473}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -2.3392, y: 0.6201, z: 0}
-  m_LocalScale: {x: 1.5009732, y: 14.616968, z: 1}
+  m_LocalPosition: {x: -2.9505, y: 0.6201, z: 0}
+  m_LocalScale: {x: 0.27828044, y: 14.616968, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -4944,31 +4944,31 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   waves:
   - waveName: Wave 1
-    noOfEnemies: 5
+    noOfEnemies: 8
     typeOfEnemies:
     - {fileID: 8226196057301143749, guid: 343e21428d7e1b34c976a5dba2a523a1, type: 3}
     - {fileID: 8226196057301143749, guid: 794d68d303021284b989ec1364684829, type: 3}
     - {fileID: 899932908622682093, guid: 4ecbe288dcb07d24eaf3df4cb9ce181b, type: 3}
     spawnInterval: 3
   - waveName: Wave 2
-    noOfEnemies: 10
+    noOfEnemies: 13
     typeOfEnemies:
     - {fileID: 8226196057301143749, guid: 343e21428d7e1b34c976a5dba2a523a1, type: 3}
     - {fileID: 8226196057301143749, guid: 794d68d303021284b989ec1364684829, type: 3}
     - {fileID: 899932908622682093, guid: 4ecbe288dcb07d24eaf3df4cb9ce181b, type: 3}
-    spawnInterval: 2
+    spawnInterval: 2.5
   - waveName: Wave 3
-    noOfEnemies: 15
+    noOfEnemies: 18
     typeOfEnemies:
     - {fileID: 8226196057301143749, guid: 343e21428d7e1b34c976a5dba2a523a1, type: 3}
     - {fileID: 8226196057301143749, guid: 794d68d303021284b989ec1364684829, type: 3}
     - {fileID: 899932908622682093, guid: 4ecbe288dcb07d24eaf3df4cb9ce181b, type: 3}
     - {fileID: 899932908622682093, guid: 2b4ad155df9b21e4da46046c671cc1f2, type: 3}
-    spawnInterval: 2
+    spawnInterval: 2.3
   - waveName: Final Wave
     noOfEnemies: 1
     typeOfEnemies:
-    - {fileID: 3544157553499822837, guid: 6fd1990e15dbbd74b8e8b26cdc704658, type: 3}
+    - {fileID: 3544157553499822837, guid: 5993cb700f7c97c40832bb522a70723b, type: 3}
     spawnInterval: 0
   spawnPoints:
   - {fileID: 1260939554}

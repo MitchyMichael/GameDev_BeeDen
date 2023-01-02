@@ -1,0 +1,5249 @@
+fileFormatVersion: 2
+guid: 28ea9ba41acdfa243959f79868eee5e4
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: scolipede_sprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1440
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd826dba90710e40b3b59587da8add1
+      internalID: 1907064764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_1
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1440
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0141c8888e45bb46b0c53f0e0c1883f
+      internalID: 860886878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_2
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1440
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e2dbe4991bacf45a34b9646686fe69
+      internalID: 961595574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_3
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1440
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194eca3f2e0d3b44294daec2ac1458c1
+      internalID: -61152793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_4
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1440
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23cccb5af8793049bad81feecde2f1b
+      internalID: 992096024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_5
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1440
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67a02638b874fa41b5b8ca8559d7f81
+      internalID: -1818839485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_6
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1440
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53171cc77838a74aab477a8b6eb6514
+      internalID: -81153519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_7
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1440
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a326ba8cd53d708449f9a9c689e37f45
+      internalID: -1595641453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_8
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1440
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad05d32b5f00da24ba4c08da4c20e4ef
+      internalID: -1938214508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_9
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 1440
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e000f205bb35cce4b8e04a1acde5ac82
+      internalID: 1404103142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_10
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1440
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32146bafb7472cd47a52e0ed4fd475db
+      internalID: -927285285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_11
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 1440
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc56c49feb59a9f4cab263b008a4b959
+      internalID: -185320143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_12
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 1440
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae32408df5da64d43bccb40ef17afcc3
+      internalID: 267970493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_13
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1440
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180fed7dc5f73ee4f91203f0767c0ffe
+      internalID: 1656811389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_14
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 1440
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a62b8a96f5949844aef58e5a4ece6f3
+      internalID: 1126620557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1344
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3185bebbfe407a747b0d9015d0435828
+      internalID: 1463319374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_16
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1344
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f1b9d20fa2caa4ba02abd4930e8749
+      internalID: 742913846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_17
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1344
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f12a588d984594cb127e4087b7e4e3
+      internalID: -1727706039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_18
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1344
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab4f682498c26a4dbf1f58e1bcb8448
+      internalID: 1408783689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_19
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1344
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e52a83076f461499188604d590f073
+      internalID: -70572086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_20
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1344
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a9b160ded78e74ba250d06152f7a4e
+      internalID: 2070259804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_21
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1344
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020d640bd9754bc4d8c27db043b7c0b7
+      internalID: 1644024880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_22
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1344
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54df4804efed165478207e4d7d6f5976
+      internalID: -1190544461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_23
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1344
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608927eb0ae358c448122a64a088bfd7
+      internalID: 1929636704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_24
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 1344
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2218d5c3550fc404e8a060c2c1e57aa0
+      internalID: -1120782123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_25
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1344
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce27454f3275d94a8a0d0fc01b941eb
+      internalID: 1363122004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_26
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 1344
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a46bdaaba72394b8ea2d6e7a8815c1
+      internalID: 1684019250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_27
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 1344
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef8fc17e5075a344b4b2ee0e2127252
+      internalID: 1147639308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_28
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1344
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc574ddaa89d954da02de4c8da0d86d
+      internalID: -815679940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_29
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 1344
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7b914f0b77bce4da433a5bb677b0e6
+      internalID: 1699774204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1248
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a954c198307bd744905ce21debc19a2
+      internalID: 624164012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_31
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1248
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232db1b7c651d7640aba88f6083dd011
+      internalID: 1740395830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_32
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1248
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ae95f23c12b144fa1209d36318e697
+      internalID: 1498802820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_33
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1248
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae117bda538ce14c83edd1f6864be3e
+      internalID: -63993647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_34
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1248
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168712870ba92df44b4350591ce180e1
+      internalID: 1469224168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_35
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1248
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb1aee3604ad9b49ba535a3d7792708
+      internalID: -2132435302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_36
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1248
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af618cfeb42ef2a41b2ef3fb66acb6be
+      internalID: -614875422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_37
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1248
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a20b556df65d9ae458b9794351c4f9ea
+      internalID: -766381591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_38
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1248
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e46e7604a3d3614b8260fb4d7f31912
+      internalID: -1434200202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_39
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 1248
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6438b591ae595488d45cd6b429f869
+      internalID: -638795185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_40
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1248
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa7cb7d66c0cfa4aa3da6f905c670c2
+      internalID: -653824363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_41
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 1248
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ad0535188d635479adcf67094bbebc
+      internalID: 406877122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_42
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 1248
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b1c2ff219004a4c94354b25162b0d8
+      internalID: -159758608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_43
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1248
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc345e7e5a2f0374d9d370a1e96064be
+      internalID: 1598701549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_44
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 1248
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b4dd63594e802438009f5cd6fe5272
+      internalID: 1627762778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9c533ec824d9641a571039ef6382c5
+      internalID: -471970293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_46
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1152
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815444f0df4d6e14fa807457c6b1fd51
+      internalID: 257656122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_47
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1152
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e7e69f7eaf01d41b2a1978203d4147
+      internalID: 1257898209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_48
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1152
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c0be9100615224692d62943f597f67
+      internalID: -54208493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_49
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1152
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cfc10163a261a1488feae2b9a325cdc
+      internalID: 930141418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_50
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1152
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d38d403601d8846808ab05ae64a6c6
+      internalID: 595274116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_51
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1152
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8e9906888bf3b4bb7e7357171f3e64
+      internalID: -1753494581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_52
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1152
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa25e087c19dff2468f1afc214f5e182
+      internalID: -2068925983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_53
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1152
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b32ce563b445d4dbe28049b116f97b
+      internalID: 1292051450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_54
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 1152
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ed21fca65a9e34eb1957154cbc715e
+      internalID: -1308823201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_55
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1152
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9594a1f4cb0bfa84c9291b6fb931671d
+      internalID: 1672249662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_56
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 1152
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2668994e916e5184db8c3eab74055ecd
+      internalID: 1035727669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_57
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 1152
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0238390d2f8b2f488e3e8ff3127b9a8
+      internalID: -204722529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_58
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1152
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11fb11233783cf246a2965034e1101c1
+      internalID: -1311864876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_59
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 1152
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55fcdb19bf818546a8339fa643a6628
+      internalID: 821012334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1056
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc5aaa8bb5521c47a95672344ea637f
+      internalID: -544577225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_61
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1056
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29008c86aaaac5243abc3c1c26fd8548
+      internalID: -217369371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_62
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1056
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42f020818e21b041b2c251129fb3ca8
+      internalID: -590706054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_63
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1056
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95b98eade4adf842aee38b05e4cd02b
+      internalID: -653446906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_64
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1056
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e995097638510a04ca7759a65d0d64ff
+      internalID: 1128033628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_65
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1056
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edaf340de1aff6d46b0bb15fefe588b8
+      internalID: 1485175176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_66
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1056
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73f7613673f78e4f8f635e92e060f3a
+      internalID: -797330211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_67
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1056
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc03d0ae9c4dcde479d838559312a3a8
+      internalID: 432322807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_68
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1056
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7bfb060427544a48a88dbf895d37dbd
+      internalID: -1057840537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_69
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 1056
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa950fef38374574098af5a4f96e638c
+      internalID: -1944142458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_70
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1056
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb33418a378980448f0c982351cb63a
+      internalID: 1663156051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_71
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 1056
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354ae1db94a795641813d199911d36fa
+      internalID: 1637868706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_72
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 1056
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18867546d47da7a48b795691a47b3f09
+      internalID: -792337710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_73
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1056
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baaa103e93d72514d9ae46cbb17a96c7
+      internalID: 1174080060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_74
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 1056
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bad320e3cbcb024da225a52c845355e
+      internalID: -1685800194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d75d66e15e54bb49891bcceaf83e42e
+      internalID: -186217941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_76
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 960
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be8a9d49dcdedd4ebda737eb1aebc49
+      internalID: 304992179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_77
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 960
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: debe5a58971624c47b2445cbc4c78294
+      internalID: 443059735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_78
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 960
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6378bb271dfa92d46950e2cbb6720450
+      internalID: 1246170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_79
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 960
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98afbc42fe0eac240a2af8873bf0381d
+      internalID: 462772601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_80
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 960
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f908f33a8ed6a864c8cd6fc2d821194b
+      internalID: -1095758182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_81
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 960
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceed71d23551d5f4e8ff5fb19bffd275
+      internalID: -398920144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_82
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 960
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de8bbce5fe1075478d0e4975c63d13e
+      internalID: 986205766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_83
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 960
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a161a6143a286e44280273a460ea4c80
+      internalID: -1558628171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_84
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 960
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36650599364936a4f92195c61e3abba6
+      internalID: -1175756562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_85
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 960
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4174eaba76dc25d489501705ea1de9d2
+      internalID: -1200943939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_86
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 960
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c121574544134c46b5907dcc8676677
+      internalID: -1545684464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_87
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 960
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ab536daae390f44808d5d508c5db66
+      internalID: 1730385216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_88
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 960
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95eda148c2642a40bc60768e9dfb0ac
+      internalID: -1928734838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_89
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 960
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef02c8254fff6844083515786d9e0469
+      internalID: 602255284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c114b55629ec784db78d106337ed503
+      internalID: -2054785128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_91
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 864
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 947582a60a088b746b5e760333f3b638
+      internalID: 1659355080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_92
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 864
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a240e3ad3da5f2448983b51fdfdef058
+      internalID: -1707543396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_93
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 864
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c295d3659a8f25945a088fa3e7c525d1
+      internalID: 1186527066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_94
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 864
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc8bf035f8d64f49a4d205534737b8a
+      internalID: 1644369509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_95
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 864
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68015f8e9097a6e489a5d9b840b8a710
+      internalID: 1181734819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_96
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 864
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a12b9b3f71728459457c45c0298231
+      internalID: -1664023362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_97
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 864
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e20c964a35afe01409190c847ecefdcd
+      internalID: -194455942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_98
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 864
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adaf4afd0075fdb4b8df2baf609cb4dd
+      internalID: 970895467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_99
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 864
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb13660de31ce5489fb99f95a583947
+      internalID: -581191782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_100
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 864
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6435d0709f777b43a06836e3dce3eaf
+      internalID: -454214528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_101
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 864
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933bfa158e807b74ba57f49e5adf71b1
+      internalID: 971120319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_102
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 864
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa57b5867a27dca4394fe40ebe5b69fd
+      internalID: 1347943760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_103
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 864
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9506db00d132e5b4abcf27c548c0788b
+      internalID: 515783454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_104
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 864
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54342fddb4848fe4d86fbfd2e979136d
+      internalID: -577072355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2c6294694cfd44a8566aa1190f094c
+      internalID: 675036661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_106
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 768
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f019d3f5ce31f47a91ff409e10b00a
+      internalID: 1529857657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_107
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 768
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882c5effd5de05d428c096e0c4a04138
+      internalID: 35106395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_108
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 768
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2505acfc3738bfd4a94c4594282935b6
+      internalID: 986505745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_109
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 768
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea71f15dd716be545b01da209f11ba43
+      internalID: -550574805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_110
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 768
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f50441155f4b14e845bb4b20885aa8
+      internalID: 491053987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_111
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 768
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c35be0a062a25b438af1d00862a4fba
+      internalID: -1084897366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_112
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 768
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4382449df490e6449a9aca37ea227f2d
+      internalID: 1831039392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_113
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 768
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f147ceac67f8e418305a3b02653f25
+      internalID: -732433258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_114
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 768
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620118035dffa77488ec10375ca3b053
+      internalID: 1164649422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_115
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 768
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169093263e4f79f4085199b9882e47b2
+      internalID: -1066938698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_116
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 768
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb65ad5adf0e54244a054c34c3c1ba33
+      internalID: 2020459203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_117
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 768
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f112625504343544da00f136f8a9e1f4
+      internalID: -1398149923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_118
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 768
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f96352ec1ce5446a6c33774473f1a3
+      internalID: -1172228859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_119
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 768
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5deeeb7508055e544ba9ac17e9e97c7e
+      internalID: 840549003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd2c813cb7c56d4287cd109b764f8dc
+      internalID: 996149161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_121
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 672
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab837f229b7f9fa4d9bd1716a03b36e0
+      internalID: -164864480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_122
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 672
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df4d4985de7a094ca7733f8f8f8a6cc
+      internalID: -245921082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_123
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 672
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00f96e309331e7488a8ca249b39c11f
+      internalID: 312440934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_124
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 672
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c160595d1841f8442af84bcced06b54f
+      internalID: 2140745073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_125
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 672
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e47697e7b651794297f9a0e960de4a6
+      internalID: 271502581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_126
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 672
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0dd93e642349d489414dd79d31263a
+      internalID: -441050310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_127
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 672
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75d2eae1d23b4a42a1f7e2c5b0a8426
+      internalID: 1046074103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_128
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 672
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9facbfb49e6f0084280b467ac5532029
+      internalID: 1944150810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_129
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 672
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e23126f912d7c428001e0e393ce1b7
+      internalID: -1634578993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_130
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 672
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e363ca1ff0b264abb0342d658ce322
+      internalID: 821249346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_131
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 672
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a866813adf7c76b409715a2057b13980
+      internalID: 1816500850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_132
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 672
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a7091f25ae0d747a40e607f6fcfe45
+      internalID: 1463098129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_133
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 672
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35c69a37b955b944b2cfaf729f959a3
+      internalID: 1273101842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_134
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 672
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 656d995162460e54aa874a239dcf4e73
+      internalID: 1367892435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce37c07eb1571ea439431f832ee15f74
+      internalID: 527659370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_136
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 576
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 584a98b539843464e9d67b81cc7aa807
+      internalID: -86100632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_137
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 576
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4287d4e6247eef4fa8fffb6e2173907
+      internalID: -912751912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_138
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 576
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0547cd28747d743bc5e8e4d13d14ba
+      internalID: -591616755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_139
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 576
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b61d511fe98b047b0d87e56e9005c0
+      internalID: -141074039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_140
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 576
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15edcecbf87d32d49a50c86324333148
+      internalID: 2131069605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_141
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 576
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b14655de2221554cb53abc0229ea2c2
+      internalID: 182980647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_142
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 576
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 292ab8035472ca741930c373236c6697
+      internalID: 1836344056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_143
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 576
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e90486e0dec5b44498f7c96557d2612
+      internalID: 1139349542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_144
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 576
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c76d97cfaddcd54584badf945586b0f
+      internalID: -856186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_145
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 576
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6113a37294fce5d419753fcc309689fc
+      internalID: 325968689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_146
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 576
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d812ab260802149809b96c847f4028
+      internalID: 741714680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_147
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 576
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdfdcc5f28079cb4fb483f05912fcc6e
+      internalID: 1217826723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_148
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 576
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b1d549a7b19d2458725a67f93f87eb
+      internalID: -281173609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_149
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 576
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4d409c8b8550b4cb9ca45940c7754a
+      internalID: -1241187959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe3d8e1977b44247a9f662e48bec288
+      internalID: -436592440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_151
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 480
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287c265f1c937474485c0453898f5f40
+      internalID: 440954823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_152
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 480
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8307b7ada32decf43be5ce38c9bcc587
+      internalID: -1673115607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_153
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 480
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac8970a987fd4b468e03dd9ed6e14b1
+      internalID: -858402648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_154
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 480
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c526cebd027acef4eb77719a1cf784bb
+      internalID: 1785837051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_155
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 480
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0734d0cf4e196e4a8a3a17142e0c264
+      internalID: 524458598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_156
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 480
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b0250b2e25bb14f9b776f98fed9d3e
+      internalID: 1621548562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_157
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 480
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad098af1a17f284d9733976b6c6d60b
+      internalID: 487265210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_158
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 480
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e33c80738806e4aace1e54cc757e46
+      internalID: 663506713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_159
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 480
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253303d4b0324424ba91d25f70b45561
+      internalID: -353475639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_160
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 480
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2edf043a93d75d47b28b712db6be281
+      internalID: -966436142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_161
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 480
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a22cde38e40a444951a0a31e986e5d
+      internalID: -790577783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_162
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 480
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcfe02bfc1e9cae4ba57d963e4be534c
+      internalID: 119022358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_163
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 480
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3907564e5aa76d49b8789936ab8c373
+      internalID: 2024291943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_164
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 480
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8ace2019eed1342b36f706b1eb08f8
+      internalID: -89710192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_165
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb575f05bc24af4ca19dd2b99c173ad
+      internalID: 1622725195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_166
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 384
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af24ba4347f5d47429ca2a320ed73e18
+      internalID: 1300570892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_167
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 384
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ee89a98f3e1494d8be7f6a0b02d683
+      internalID: 1102189564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_168
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 384
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1eac99bdb572574c98597029fd94e89
+      internalID: 2032401226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_169
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 384
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463ed7caf2761944998d8e8ac95f03fd
+      internalID: 1721003314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_170
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 384
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a4c1973b938874f9cd39e00e7c81ea
+      internalID: -1844614346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_171
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 384
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8574bb3f14b183c4d8112b7954d0dff0
+      internalID: -967173747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_172
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 384
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44bd82e96dfbf545a6b0b8be08d55eb
+      internalID: -706800628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_173
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 384
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1233fa4c65a2fcf45874ab5ed39fc8a1
+      internalID: 328738767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_174
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 384
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee636083326601840aad04b8b2d62539
+      internalID: 57373942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_175
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 384
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d1de84b2cc43049a77a86b503f7aab
+      internalID: -453539788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_176
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 384
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7602f29f456af3e4aaab20fe43bed9c0
+      internalID: 1214504385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_177
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 384
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d259426440fb03458fdf49c4f47c516
+      internalID: 1904692789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_178
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 384
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68961229ae9ce3644b6576fe5e4e6fd6
+      internalID: -1343465979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_179
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 384
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6f74bf790e89c49a774a013ae4c59a
+      internalID: 1844193980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5047d7f6b24625e408cea0ba55cb56e7
+      internalID: -278177617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_181
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 288
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed0934006fbb1d4684b8b6cf07051fc
+      internalID: -1486852032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_182
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 288
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af85c72028ed2d48a4c861e7b18bfc0
+      internalID: -1446482446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_183
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 288
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec02fb2fd5208b468af2602a85b66a1
+      internalID: 540147656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_184
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 288
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f10bc43da07cea46bf88c7724005a4c
+      internalID: -132168113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_185
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 288
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3678a9fdcda588e48ba9f6bc5d1dfedf
+      internalID: 918746670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_186
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 288
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e517693fbb5770d4c8326c7a203a27c2
+      internalID: 426256851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_187
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 288
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9783661beb9838a48acfbe5a1136afc4
+      internalID: -676237158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_188
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 288
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5575de282e60e418b3bd11e846842e
+      internalID: 374035580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_189
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 288
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2e15959c1b2934c81bada224c1d7f3
+      internalID: -1717693905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_190
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 288
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3f52c9598e70b42b009c0b8c05c21f
+      internalID: 1183392196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_191
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 288
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e213c44b4382194d891014bb9c4060b
+      internalID: -1961077448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_192
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 288
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9d193310f275d4cb6145029cbc6ef5
+      internalID: 1362206767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_193
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 288
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bedb53607ac6c2478df474525a24629
+      internalID: 1846716297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_194
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 288
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d35b7a9f311ae25488664b5d776d8fc1
+      internalID: 782683765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_195
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e9397086a128d449f2fa918a330b75
+      internalID: 1766690879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_196
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 192
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372961699e2e14a4b8d8854818fd2f6c
+      internalID: -1454535352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_197
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 192
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d859f1c51047368479fc05bfa0632316
+      internalID: 2083954201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_198
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 192
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1060aa689ace2d44a9c6247478307178
+      internalID: 570351985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_199
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 192
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5634cda8cff5fd34c871c71497f52bfb
+      internalID: -1750067000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_200
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 192
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615fc36bb6ec4094ab540bfe74b4a0a3
+      internalID: 413180552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_201
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 192
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346b058b0778b2b468d334c492ad7599
+      internalID: -1901294752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_202
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 192
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77257f992d9f86f4881041936e279ad9
+      internalID: 1211846735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_203
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 192
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df07311d3a3933c4aab401efda6509ac
+      internalID: -914285419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_204
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 192
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d136bd121ffb3bf4eb00d76304b598e5
+      internalID: 1270384798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_205
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 192
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6eaf812e9adf2419aad92363a863f6
+      internalID: 1151992911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_206
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 192
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f130cd48e55f1454fbc70725eaf717fb
+      internalID: 937675632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_207
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 192
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da9bad70c3ede84392e9c37725888a3
+      internalID: -32118528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_208
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 192
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16bcbc0dd2390f64f977076ce54793f2
+      internalID: 1308984205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_209
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 192
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb303c1a19a50942b998eaa4c74dd43
+      internalID: 1656171502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_210
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c102f0b4f87cfc24c8e02e015d61858e
+      internalID: -873449638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_211
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 96
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 030ed1226621a984bab5cb72d42ceb9d
+      internalID: -1112963076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_212
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 96
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17af364c7b2cdb4792d469b0c00692d
+      internalID: -1328348019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_213
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 96
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d86d2ba2dde5f948bd79e27d26b4b19
+      internalID: 80242964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_214
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 96
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f0a93ba8068d849aeab6856c6a8e33
+      internalID: -2066494382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_215
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 96
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887892fa86b3f2f46a9119551122a141
+      internalID: -1598180865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_216
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 96
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13af911ea63d32e438aaed32ef89a73e
+      internalID: -71664010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_217
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 96
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f524474777fed840a1ee18d13b3e5b0
+      internalID: -1428520373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_218
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 96
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1884c88cda987f49b6baf8132323236
+      internalID: 1985611488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_219
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 96
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40674d7822ce85543aa47a3eb18f79f8
+      internalID: 645512450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_220
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 96
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dabc61daca26acb43bfcad3ce3b979a5
+      internalID: 1596761684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_221
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 96
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c4dcbedc28d7740b6675f045470a26
+      internalID: -1500616318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_222
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 96
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0ced2becbafb7469af29d7f10bf49d
+      internalID: 768522674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_223
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 96
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22635c87423f5b43ac1c6e73245cd0a
+      internalID: 474019890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_224
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 96
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa342f9568204a429c50e9dd78c3c79
+      internalID: 396195577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_225
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1295323cb7729f439ca16aa45ea1bde
+      internalID: -1259308301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_226
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 0
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca23a2e6032c273469b7929771cea981
+      internalID: -1569628651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_227
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 0
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41a4259be73d1c43b0600153a75a2a9
+      internalID: 192538008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_228
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 0
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae426d464dd5ca469701ab79bdf443d
+      internalID: -1827899659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_229
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 0
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4824995b94d7f84997e7a6bfe7c3c9f
+      internalID: -1712251690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_230
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 0
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23d3f4785496a248aea96d3be4c8c6e
+      internalID: 819226624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_231
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 0
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39fad154fd684fb4680e2607062bfffa
+      internalID: 1265684566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scolipede_sprite_232
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 0
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf8a7d8026abe4469803a5f7f09063d
+      internalID: 840435402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      scolipede_sprite_48: -54208493
+      scolipede_sprite_49: 930141418
+      scolipede_sprite_20: 2070259804
+      scolipede_sprite_155: 524458598
+      scolipede_sprite_37: -766381591
+      scolipede_sprite_41: 406877122
+      scolipede_sprite_171: -967173747
+      scolipede_sprite_95: 1181734819
+      scolipede_sprite_32: 1498802820
+      scolipede_sprite_142: 1836344056
+      scolipede_sprite_14: 1126620557
+      scolipede_sprite_221: -1500616318
+      scolipede_sprite_52: -2068925983
+      scolipede_sprite_24: -1120782123
+      scolipede_sprite_108: 986505745
+      scolipede_sprite_196: -1454535352
+      scolipede_sprite_230: 819226624
+      scolipede_sprite_106: 1529857657
+      scolipede_sprite_211: -1112963076
+      scolipede_sprite_174: 57373942
+      scolipede_sprite_126: -441050310
+      scolipede_sprite_170: -1844614346
+      scolipede_sprite_79: 462772601
+      scolipede_sprite_159: -353475639
+      scolipede_sprite_57: -204722529
+      scolipede_sprite_131: 1816500850
+      scolipede_sprite_55: 1672249662
+      scolipede_sprite_199: -1750067000
+      scolipede_sprite_146: 741714680
+      scolipede_sprite_129: -1634578993
+      scolipede_sprite_149: -1241187959
+      scolipede_sprite_172: -706800628
+      scolipede_sprite_118: -1172228859
+      scolipede_sprite_191: -1961077448
+      scolipede_sprite_89: 602255284
+      scolipede_sprite_151: 440954823
+      scolipede_sprite_87: 1730385216
+      scolipede_sprite_200: 413180552
+      scolipede_sprite_45: -471970293
+      scolipede_sprite_83: -1558628171
+      scolipede_sprite_28: -815679940
+      scolipede_sprite_31: 1740395830
+      scolipede_sprite_158: 663506713
+      scolipede_sprite_123: 312440934
+      scolipede_sprite_186: 426256851
+      scolipede_sprite_100: -454214528
+      scolipede_sprite_13: 1656811389
+      scolipede_sprite_50: 595274116
+      scolipede_sprite_65: 1485175176
+      scolipede_sprite_132: 1463098129
+      scolipede_sprite_112: 1831039392
+      scolipede_sprite_183: 540147656
+      scolipede_sprite_144: -856186
+      scolipede_sprite_63: -653446906
+      scolipede_sprite_223: 474019890
+      scolipede_sprite_114: 1164649422
+      scolipede_sprite_120: 996149161
+      scolipede_sprite_187: -676237158
+      scolipede_sprite_128: 1944150810
+      scolipede_sprite_115: -1066938698
+      scolipede_sprite_160: -966436142
+      scolipede_sprite_184: -132168113
+      scolipede_sprite_210: -873449638
+      scolipede_sprite_34: 1469224168
+      scolipede_sprite_122: -245921082
+      scolipede_sprite_75: -186217941
+      scolipede_sprite_97: -194455942
+      scolipede_sprite_207: -32118528
+      scolipede_sprite_72: -792337710
+      scolipede_sprite_136: -86100632
+      scolipede_sprite_141: 182980647
+      scolipede_sprite_1: 860886878
+      scolipede_sprite_164: -89710192
+      scolipede_sprite_181: -1486852032
+      scolipede_sprite_22: -1190544461
+      scolipede_sprite_133: 1273101842
+      scolipede_sprite_12: 267970493
+      scolipede_sprite_225: -1259308301
+      scolipede_sprite_130: 821249346
+      scolipede_sprite_168: 2032401226
+      scolipede_sprite_16: 742913846
+      scolipede_sprite_66: -797330211
+      scolipede_sprite_69: -1944142458
+      scolipede_sprite_76: 304992179
+      scolipede_sprite_53: 1292051450
+      scolipede_sprite_82: 986205766
+      scolipede_sprite_182: -1446482446
+      scolipede_sprite_143: 1139349542
+      scolipede_sprite_165: 1622725195
+      scolipede_sprite_80: -1095758182
+      scolipede_sprite_4: 992096024
+      scolipede_sprite_135: 527659370
+      scolipede_sprite_216: -71664010
+      scolipede_sprite_8: -1938214508
+      scolipede_sprite_86: -1545684464
+      scolipede_sprite_99: -581191782
+      scolipede_sprite_77: 443059735
+      scolipede_sprite_202: 1211846735
+      scolipede_sprite_56: 1035727669
+      scolipede_sprite_29: 1699774204
+      scolipede_sprite_189: -1717693905
+      scolipede_sprite_157: 487265210
+      scolipede_sprite_197: 2083954201
+      scolipede_sprite_39: -638795185
+      scolipede_sprite_194: 782683765
+      scolipede_sprite_102: 1347943760
+      scolipede_sprite_227: 192538008
+      scolipede_sprite_229: -1712251690
+      scolipede_sprite_148: -281173609
+      scolipede_sprite_140: 2131069605
+      scolipede_sprite_27: 1147639308
+      scolipede_sprite_134: 1367892435
+      scolipede_sprite_58: -1311864876
+      scolipede_sprite_46: 257656122
+      scolipede_sprite_68: -1057840537
+      scolipede_sprite_36: -614875422
+      scolipede_sprite_178: -1343465979
+      scolipede_sprite_30: 624164012
+      scolipede_sprite_219: 645512450
+      scolipede_sprite_5: -1818839485
+      scolipede_sprite_35: -2132435302
+      scolipede_sprite_98: 970895467
+      scolipede_sprite_156: 1621548562
+      scolipede_sprite_195: 1766690879
+      scolipede_sprite_119: 840549003
+      scolipede_sprite_161: -790577783
+      scolipede_sprite_193: 1846716297
+      scolipede_sprite_0: 1907064764
+      scolipede_sprite_166: 1300570892
+      scolipede_sprite_224: 396195577
+      scolipede_sprite_231: 1265684566
+      scolipede_sprite_138: -591616755
+      scolipede_sprite_61: -217369371
+      scolipede_sprite_208: 1308984205
+      scolipede_sprite_105: 675036661
+      scolipede_sprite_107: 35106395
+      scolipede_sprite_213: 80242964
+      scolipede_sprite_212: -1328348019
+      scolipede_sprite_127: 1046074103
+      scolipede_sprite_203: -914285419
+      scolipede_sprite_163: 2024291943
+      scolipede_sprite_117: -1398149923
+      scolipede_sprite_145: 325968689
+      scolipede_sprite_93: 1186527066
+      scolipede_sprite_198: 570351985
+      scolipede_sprite_7: -1595641453
+      scolipede_sprite_162: 119022358
+      scolipede_sprite_71: 1637868706
+      scolipede_sprite_73: 1174080060
+      scolipede_sprite_15: 1463319374
+      scolipede_sprite_9: 1404103142
+      scolipede_sprite_94: 1644369509
+      scolipede_sprite_54: -1308823201
+      scolipede_sprite_121: -164864480
+      scolipede_sprite_33: -63993647
+      scolipede_sprite_110: 491053987
+      scolipede_sprite_91: 1659355080
+      scolipede_sprite_113: -732433258
+      scolipede_sprite_175: -453539788
+      scolipede_sprite_218: 1985611488
+      scolipede_sprite_125: 271502581
+      scolipede_sprite_215: -1598180865
+      scolipede_sprite_25: 1363122004
+      scolipede_sprite_84: -1175756562
+      scolipede_sprite_81: -398920144
+      scolipede_sprite_60: -544577225
+      scolipede_sprite_150: -436592440
+      scolipede_sprite_26: 1684019250
+      scolipede_sprite_228: -1827899659
+      scolipede_sprite_232: 840435402
+      scolipede_sprite_226: -1569628651
+      scolipede_sprite_85: -1200943939
+      scolipede_sprite_38: -1434200202
+      scolipede_sprite_101: 971120319
+      scolipede_sprite_47: 1257898209
+      scolipede_sprite_51: -1753494581
+      scolipede_sprite_206: 937675632
+      scolipede_sprite_43: 1598701549
+      scolipede_sprite_78: 1246170
+      scolipede_sprite_201: -1901294752
+      scolipede_sprite_116: 2020459203
+      scolipede_sprite_167: 1102189564
+      scolipede_sprite_2: 961595574
+      scolipede_sprite_192: 1362206767
+      scolipede_sprite_111: -1084897366
+      scolipede_sprite_173: 328738767
+      scolipede_sprite_90: -2054785128
+      scolipede_sprite_153: -858402648
+      scolipede_sprite_179: 1844193980
+      scolipede_sprite_139: -141074039
+      scolipede_sprite_214: -2066494382
+      scolipede_sprite_64: 1128033628
+      scolipede_sprite_11: -185320143
+      scolipede_sprite_59: 821012334
+      scolipede_sprite_3: -61152793
+      scolipede_sprite_92: -1707543396
+      scolipede_sprite_152: -1673115607
+      scolipede_sprite_222: 768522674
+      scolipede_sprite_209: 1656171502
+      scolipede_sprite_147: 1217826723
+      scolipede_sprite_185: 918746670
+      scolipede_sprite_42: -159758608
+      scolipede_sprite_6: -81153519
+      scolipede_sprite_19: -70572086
+      scolipede_sprite_74: -1685800194
+      scolipede_sprite_44: 1627762778
+      scolipede_sprite_204: 1270384798
+      scolipede_sprite_18: 1408783689
+      scolipede_sprite_109: -550574805
+      scolipede_sprite_23: 1929636704
+      scolipede_sprite_62: -590706054
+      scolipede_sprite_17: -1727706039
+      scolipede_sprite_124: 2140745073
+      scolipede_sprite_188: 374035580
+      scolipede_sprite_220: 1596761684
+      scolipede_sprite_103: 515783454
+      scolipede_sprite_10: -927285285
+      scolipede_sprite_190: 1183392196
+      scolipede_sprite_70: 1663156051
+      scolipede_sprite_217: -1428520373
+      scolipede_sprite_176: 1214504385
+      scolipede_sprite_67: 432322807
+      scolipede_sprite_154: 1785837051
+      scolipede_sprite_96: -1664023362
+      scolipede_sprite_137: -912751912
+      scolipede_sprite_40: -653824363
+      scolipede_sprite_180: -278177617
+      scolipede_sprite_21: 1644024880
+      scolipede_sprite_169: 1721003314
+      scolipede_sprite_177: 1904692789
+      scolipede_sprite_205: 1151992911
+      scolipede_sprite_104: -577072355
+      scolipede_sprite_88: -1928734838
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
