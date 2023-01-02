@@ -10,7 +10,6 @@ public class EnemyController : MonoBehaviour
     public float speed;
     public static EnemyController instance;
 
-
     private void Awake()
     {
         instance = this;
@@ -42,8 +41,9 @@ public class EnemyController : MonoBehaviour
         
         if (currentHealth <= 0)
         {
+            CoinController.instance.AppearCoin(gameObject.transform.position);           
+            CoinController.instance.AddCoin(10); 
             Destroy(gameObject);
-            CoinController.instance.AddCoin(10);
         }
     }
 

@@ -13,6 +13,10 @@ public class CoinController : MonoBehaviour
 
     public bool isUpgraded = false;
 
+    public GameObject coins;
+    public Transform target;
+    public float speed;
+
     private void Awake()
     {
         instance = this;
@@ -27,7 +31,12 @@ public class CoinController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        GameObject[] coins = GameObject.FindGameObjectsWithTag("Coin");
         
+        for (int i = 0; i < coins.Length; i++)
+        {
+            coins[i].transform.position = Vector3.MoveTowards(coins[i].transform.position, target.position, speed * Time.deltaTime);
+        }
     }
 
     public void AddCoin(int amount)
@@ -48,5 +57,10 @@ public class CoinController : MonoBehaviour
         {
             isUpgraded = false;
         }
+    }
+
+    public void AppearCoin(Vector3 vector)
+    {
+        Instantiate(coins, vector, Quaternion.identity);
     }
 }
