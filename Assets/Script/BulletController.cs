@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class BulletController : MonoBehaviour
 { 
-
+    
     void OnTriggerEnter2D(Collider2D collision)
     {
         float damage = PlayerController.instance.bulletDamage;
