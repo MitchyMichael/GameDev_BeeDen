@@ -36,7 +36,15 @@ public class BossController : MonoBehaviour
         {
             Destroy(gameObject);
             PlayerController.instance.audioSourceSFX.PlayOneShot(Dead);
-            SceneManager.LoadScene("Victory");
+            string difficulty = PlayerPrefs.GetString("Difficulty");
+            if (difficulty == "Easy" || difficulty == "Medium")
+            {
+                SceneManager.LoadScene("Victory");
+            }
+            if (difficulty == "Hard")
+            {
+                SceneManager.LoadScene("VictoryHard");
+            }
         }
     }
 

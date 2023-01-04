@@ -1562,22 +1562,18 @@ MonoBehaviour:
   - waveName: Wave 3
     noOfEnemies: 20
     typeOfEnemies:
-    - {fileID: 8226196057301143749, guid: 794d68d303021284b989ec1364684829, type: 3}
-    - {fileID: 899932908622682093, guid: 4ecbe288dcb07d24eaf3df4cb9ce181b, type: 3}
     - {fileID: 899932908622682093, guid: 2b4ad155df9b21e4da46046c671cc1f2, type: 3}
     - {fileID: 899932908622682093, guid: 03a0c672c6842244ba888d39f113c562, type: 3}
     - {fileID: 899932908622682093, guid: 947fe1d7bf828d944b5bbe753de685f4, type: 3}
-    spawnInterval: 1.8
+    - {fileID: 899932908622682093, guid: 4ecbe288dcb07d24eaf3df4cb9ce181b, type: 3}
+    spawnInterval: 2.1
   - waveName: Wave 4
     noOfEnemies: 30
     typeOfEnemies:
-    - {fileID: 8226196057301143749, guid: 343e21428d7e1b34c976a5dba2a523a1, type: 3}
-    - {fileID: 8226196057301143749, guid: 794d68d303021284b989ec1364684829, type: 3}
-    - {fileID: 899932908622682093, guid: 4ecbe288dcb07d24eaf3df4cb9ce181b, type: 3}
     - {fileID: 899932908622682093, guid: 2b4ad155df9b21e4da46046c671cc1f2, type: 3}
     - {fileID: 899932908622682093, guid: 03a0c672c6842244ba888d39f113c562, type: 3}
     - {fileID: 899932908622682093, guid: 947fe1d7bf828d944b5bbe753de685f4, type: 3}
-    spawnInterval: 1.5
+    spawnInterval: 1.6
   - waveName: Final Wave
     noOfEnemies: 1
     typeOfEnemies:
@@ -5177,15 +5173,15 @@ PrefabInstance:
     - target: {fileID: 8523446253834165452, guid: c7cdb4e746c5ada49a38e3b0bb2c6700, type: 3}
       propertyPath: hearts.Array.data[0]
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1316426653}
     - target: {fileID: 8523446253834165452, guid: c7cdb4e746c5ada49a38e3b0bb2c6700, type: 3}
       propertyPath: hearts.Array.data[1]
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 386704506}
     - target: {fileID: 8523446253834165452, guid: c7cdb4e746c5ada49a38e3b0bb2c6700, type: 3}
       propertyPath: hearts.Array.data[2]
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1427021240}
     - target: {fileID: 8523446253834165453, guid: c7cdb4e746c5ada49a38e3b0bb2c6700, type: 3}
       propertyPath: m_Name
       value: Player

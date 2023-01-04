@@ -27,6 +27,11 @@ public class WaveSpawner : MonoBehaviour
     private bool canSpawn = true;
     private bool canAnimate = false;
 
+    private void Start()
+    {
+        PlayerPrefs.SetString("Difficulty", SceneManager.GetActiveScene().name); 
+    }
+
     private void Update()
     {
         currentWave = waves[currentWaveNumber];

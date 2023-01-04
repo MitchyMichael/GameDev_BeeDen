@@ -26,4 +26,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Medium.unity
     guid: c38ba6211c384434cb5400f59f23be4c
+  - enabled: 1
+    path: Assets/Scenes/VictoryHard.unity
+    guid: 59a7cc0994c225d4bb3a5d2180be7456
   m_configObjects: {}
