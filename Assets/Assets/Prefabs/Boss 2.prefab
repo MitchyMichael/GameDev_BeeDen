@@ -85,7 +85,7 @@ SpriteRenderer:
   m_Size: {x: 1.1, y: 0.96}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!61 &3544157553499822838
@@ -170,3 +170,4 @@ MonoBehaviour:
   maxHealth: 55
   currentHealth: 0
   speed: 0.8
+  Dead: {fileID: 8300000, guid: 54063d61b0142ce49bab05e16e32eebf, type: 3}

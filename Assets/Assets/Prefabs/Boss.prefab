@@ -170,3 +170,4 @@ MonoBehaviour:
   maxHealth: 20
   currentHealth: 0
   speed: 0.6
+  Dead: {fileID: 8300000, guid: 54063d61b0142ce49bab05e16e32eebf, type: 3}

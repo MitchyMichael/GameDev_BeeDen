@@ -43,7 +43,7 @@ public class PlayerController : MonoBehaviour
 
     private void GetInputShooting()
     {
-        if (Input.GetMouseButtonDown(0))
+        if (Input.GetKey(KeyCode.Mouse0))
         {
             if (Time.time - lastShot < cooldown)
             {

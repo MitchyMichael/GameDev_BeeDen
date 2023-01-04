@@ -16,6 +16,7 @@ public class CoinController : MonoBehaviour
     public GameObject coins;
     public Transform target;
     public float speed;
+    public AudioClip Score;
 
     private void Awake()
     {
@@ -62,5 +63,6 @@ public class CoinController : MonoBehaviour
     public void AppearCoin(Vector3 vector)
     {
         Instantiate(coins, vector, Quaternion.identity);
+        PlayerController.instance.audioSourceSFX.PlayOneShot(Score);
     }
 }

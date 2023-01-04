@@ -8,6 +8,7 @@ public class BossController : MonoBehaviour
     public float maxHealth;
     public float currentHealth;
     public float speed;
+    public AudioClip Dead;
 
     // Start is called before the first frame update
     void Start()
@@ -34,6 +35,7 @@ public class BossController : MonoBehaviour
         if (currentHealth <= 0)
         {
             Destroy(gameObject);
+            PlayerController.instance.audioSourceSFX.PlayOneShot(Dead);
             SceneManager.LoadScene("Victory");
         }
     }
