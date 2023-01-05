@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 3544157553499822836}
   - component: {fileID: 1279443021177640140}
   m_Layer: 8
-  m_Name: Boss 1
+  m_Name: Boss Hard
   m_TagString: Boss
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -77,12 +77,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: -134194267, guid: ac0a2f75a2c904549b2867961ff6c47e, type: 3}
+  m_Sprite: {fileID: -1449182476, guid: db14faf34f7c75741a4fc321f1d766ed, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.77, y: 0.76}
+  m_Size: {x: 1, y: 1}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -101,18 +101,18 @@ BoxCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.09, y: 0}
+  m_Offset: {x: 0, y: -0.03}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 0.77, y: 0.76}
-    newSize: {x: 0.77, y: 0.76}
+    oldSize: {x: 0.89, y: 0.82}
+    newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.35, y: 0.72}
+  m_Size: {x: 0.35, y: 0.6}
   m_EdgeRadius: 0
 --- !u!50 &3544157553499822839
 Rigidbody2D:
@@ -145,7 +145,7 @@ Animator:
   m_GameObject: {fileID: 3544157553499822837}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: b747f41a913909840b07f0df472a7d80, type: 2}
+  m_Controller: {fileID: 9100000, guid: f79f4b98700012c4f845e40979b905c5, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -167,7 +167,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b8237580d287d544188dcd4bb1995274, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxHealth: 40
+  maxHealth: 55
   currentHealth: 0
-  speed: 0.7
+  speed: 0.8
   Dead: {fileID: 8300000, guid: 54063d61b0142ce49bab05e16e32eebf, type: 3}

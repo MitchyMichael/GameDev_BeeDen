@@ -30,6 +30,8 @@ public class BossController : MonoBehaviour
 
     public void TakeDamage(float amount)
     {
+        AudioClip enemyHit = PlayerController.instance.EnemyHit;
+        PlayerController.instance.audioSourceSFX.PlayOneShot(enemyHit);
         currentHealth -=  amount;
         
         if (currentHealth <= 0)

@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 3544157553499822836}
   - component: {fileID: 1279443021177640140}
   m_Layer: 8
-  m_Name: Boss
+  m_Name: Boss Medium
   m_TagString: Boss
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -77,7 +77,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 1440552270, guid: 4df2a1a794a2f0847a480ab4fe2f9a3a, type: 3}
+  m_Sprite: {fileID: -134194267, guid: dd4b3efa4efe78646a27ab6c0851ad2c, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -105,7 +105,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 0.71, y: 0.8}
+    oldSize: {x: 0.77, y: 0.76}
     newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -145,7 +145,7 @@ Animator:
   m_GameObject: {fileID: 3544157553499822837}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: afddd118a034f0b43ba90376d959ab1e, type: 2}
+  m_Controller: {fileID: 9100000, guid: c390e52dded0c5d4db73e98887d055a3, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -167,7 +167,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b8237580d287d544188dcd4bb1995274, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxHealth: 20
+  maxHealth: 40
   currentHealth: 0
-  speed: 0.6
+  speed: 0.7
   Dead: {fileID: 8300000, guid: 54063d61b0142ce49bab05e16e32eebf, type: 3}
