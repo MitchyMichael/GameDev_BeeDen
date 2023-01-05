@@ -1689,7 +1689,7 @@ MonoBehaviour:
   - waveName: Final Wave
     noOfEnemies: 1
     typeOfEnemies:
-    - {fileID: 3334135714352180488, guid: 6ed72f5605567274881dabd00cec20e1, type: 3}
+    - {fileID: 3544157553499822837, guid: 0ce5a758f0661004aaa44fe3034f5e38, type: 3}
     spawnInterval: 0
   spawnPoints:
   - {fileID: 8677011}
