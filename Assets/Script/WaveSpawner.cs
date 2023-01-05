@@ -29,7 +29,7 @@ public class WaveSpawner : MonoBehaviour
 
     private void Start()
     {
-        PlayerPrefs.SetString("Difficulty", SceneManager.GetActiveScene().name); 
+        PlayerPrefs.SetString("Difficulty", SceneManager.GetActiveScene().name);
     }
 
     private void Update()
